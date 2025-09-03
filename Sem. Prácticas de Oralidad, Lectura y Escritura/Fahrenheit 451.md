@@ -11,7 +11,11 @@
 
 5. ¿Qué importancia tienen las pantallas en esta novela? ¿Qué función cumplen en ese diseño de sociedad distópica y disciplinada?
 
-Beaty, argumentador, falaz. No es un personaje vulgar, ni malvado.
+Beaty, argumentador, falaz. No es un personaje vulgar, ni malvado. Anti-intelectual.
+Manipula a Montag -- Superioridad de las masas - Todos somos iguales si no leemos.
+No nacemos todos iguales, pero podemos ser todos HECHOS iguales.
 Clarisse hace que Montag reflexione, se cuestione lo que antes ni siquiera se paraba a pensar.
 Montag reprime su subconsciente. 
 Efecto de las preguntas.
+
+No hay religión, la sociedad de consumo la reemplaza.
