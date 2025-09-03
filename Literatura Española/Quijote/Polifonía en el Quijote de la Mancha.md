@@ -7,4 +7,9 @@ Renacimiento
 
 Realismo en el Quijote, salvo en la forma en que el Quijote percibe la realidad de forma fantástica-maravillosa.
 Tensión realismo//fantástico
-Reconoce al Cid, pero le interesan los caballeros de Amadises
+Reconoce al Cid, pero le interesan los caballeros de Amadises.
+
+Género burlesco/paródico.
+Cautiverio
+Política = cuestiona los caballeresco y los valores de la época, pero realza en el Quijote los valores nobles mientras denuncia los valores del renacimiento.
+Ingenuidad, creencia en un mundo utópico que no te devuelve lo que esperas.
