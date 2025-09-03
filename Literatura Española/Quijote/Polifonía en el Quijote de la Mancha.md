@@ -13,3 +13,6 @@ Género burlesco/paródico.
 Cautiverio
 Política = cuestiona los caballeresco y los valores de la época, pero realza en el Quijote los valores nobles mientras denuncia los valores del renacimiento.
 Ingenuidad, creencia en un mundo utópico que no te devuelve lo que esperas.
+Utopía para Cervantes. ¿Qué es? -- Utopía de la ínsula Barataria, tópico de la edad de oro griego.
+Realidad que presenta es más bien cruda, realista.
+
