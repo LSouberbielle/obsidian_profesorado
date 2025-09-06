@@ -8,3 +8,5 @@ Necesitaba el Quijote tener ese prólogo y los poemas para legitimar el status d
 Barroco - Tópico de la falsa humildad/falsa modestia.
 
 [[Polifonía en el Quijote de la Mancha]]
+
+Verosimilitud en el Quijote -- Mimesis
