@@ -54,3 +54,7 @@ Identidad negativa -> adoptan heteroidentidad que impone el grupo dominante -> D
 
 Identidad es lo que se pone en juego con las luchas sociales.
 Poder de identificación -> Varía, depende de la posición del grupo social
+
+
+
+Galeano -> Identidad cultural en movimiento, viva, más elegida que heredada
