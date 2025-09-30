@@ -58,3 +58,16 @@ Poder de identificación -> Varía, depende de la posición del grupo social
 
 
 Galeano -> Identidad cultural en movimiento, viva, más elegida que heredada
+
+
+_Denys Cuche – “La noción de cultura en las ciencias sociales”_ **capítulo VI "Cultura e identidad" (págs. 105 a 122)**
+
+1. Según el autor, ¿cultura e identidad son lo mismo?
+2. ¿Cuáles son las distintas concepciones de identidad cultural que presenta?
+3. ¿Qué crítica formula a las concepciones subjetivas y objetivas de la identidad?
+4. ¿En qué consiste el enfoque relacional y situacional?
+5. ¿Cuáles son los planteos centrales de Barth en relación con este enfoque?
+6. ¿Qué papel asigna Cuche a los científicos sociales en el estudio de la identidad?
+7. ¿Qué se entiende por “estrategia identitaria”?
+8. Según el autor, ¿las fronteras son inmutables? ¿Por qué?
+	- Las fronteras no son inmutables. Toda frontera es concebida como una demarcación social que puede ser constantemente renovada en los intercambios.
