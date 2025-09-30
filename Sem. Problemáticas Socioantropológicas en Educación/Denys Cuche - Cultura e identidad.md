@@ -4,6 +4,10 @@
 | Se origina en procesos inconscientes | Remite a norma de pertenencia, necesariamente consciente porque está basada en oposiciones simbólicas. |
 |                                      | Moda identitaria --> Años 70' --> Fenómeno de exaltación de la diferencia                              |
 |                                      |                                                                                                        |
+Identidad cultural --> uno de los componentes de identidad social.
+
+"La Identidad social de un individuo se caracteriza por el conjunto de sus pertenencias en el sistema social: pertenencia a una clase sexual, a una clase etaria, a una clase social, a una nación. La Identidad permite que el individuo se ubique en el Sistema social y que él mismo sea ubicado socialmente". (p. 106)
+
 Identidad cultural --> Polisemia y fluidez
 Este concepto surge en los 50' en Estados Unidos como herramienta para explicar problemas de integración de los inmigrantes.
 Esta concepción relaciona identidad cultural con la conducta de los individuos.
@@ -36,11 +40,17 @@ Critica enfoque objetivista, dice que la identidad cultural no puede reducirse a
 Lo que cuenta son las representaciones que los individuos hacen de la realidad social.
 Sin embargo, este punto llevado al extremo implica reducir la identidad a una elección voluntaria arbitraria, porque cada uno es libre de realizar sus propias identificaciones.
 Enfoque subjetivista da cuenta del carácter variable de la identidad, pero tiende a acentuar el aspecto efímero de la misma, cuando, en realidad, las identidades suelen ser estables.
+###### Concepción relacional y situacional
+No importa solo que un rasgo sea distintivo, sino que también los miembros de la cultura utilicen ese rasgo para diferenciarse de otros grupos.
+Una cultura no produce por sí misma una identidad diferenciada
+-> Es el resultado de las interacciones entre grupos 
 
+Identidad sería entonces algo que se construye y reconstruye constantemente en los intercambios sociales (p. 110) -> Concepción dinámica.
+No existe por sí misma la identidad, siempre es en relación a otro.
+Relación dialéctica entre identidad y alteridad.
+Identidad es una negociación entre la autoidentidad (yo) y la hetero/exoidentidad (definida por otros)
+Situación relacional -> Relación de fuerza entre grupos de contacto -> Mayor o menor peso de autoidentidad o heteroidentidad. En situación de dominación podría entenderse como la estigmatización de los grupos minoritarios.
+Identidad negativa -> adoptan heteroidentidad que impone el grupo dominante -> Desprecio a uno mismo. Identidad vergonzosa, reprimida.
 
-
-
-Identidad cultural --> uno de los componentes de identidad social.
-
-"La Identidad social de un individuo se caracteriza por el conjunto de sus pertenencias en el sistema social: pertenencia a una clase sexual, a una clase etaria, a una clase social, a una nación. La Identidad permite que el individuo se ubique en el Sistema social y que él mismo sea ubicado socialmente". (p. 106)
-
+Identidad es lo que se pone en juego con las luchas sociales.
+Poder de identificación -> Varía, depende de la posición del grupo social
