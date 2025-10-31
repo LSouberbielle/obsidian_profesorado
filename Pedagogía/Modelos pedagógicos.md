@@ -21,3 +21,4 @@ Están implícitos en las cosas que hacemos o no.
 Cada corriente pertenece a su momento histórico, no puede descontextualizarse. Tienen su historicidad.
 El ideal de persona y educación que persigue el modelo puede servirnos para orientarnos.
 ¿Cuáles son las metas educativas? ¿Cuál es el idea de persona que proyecta y que la educación promueve?
+
