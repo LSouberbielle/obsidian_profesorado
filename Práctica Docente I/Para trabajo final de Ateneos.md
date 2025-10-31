@@ -1,0 +1,1 @@
+Vincular lo teórico con las prácticas, desarrollando criterio, dónde ponemos el foco y por qué.
