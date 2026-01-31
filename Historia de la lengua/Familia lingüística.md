@@ -1,0 +1,3 @@
+Grupo o comunidad de hablantes de diversas lenguas que mantienen aspectos en común que hacen más o menos inteligible su lengua para los otros, a partir de rasgos coincidentes sobre todo en el plano del léxico (las palabras que utiliza cada lengua) y la sintaxis (el orden en el que flexiona y hace funcionar esas palabras para construir frases).
+
+Mantienen rasgos comunes y, por sobre todas las cosas, una misma raíz lingüística, provienen del mismo tronco. Todas nuestras lenguas romances provienen del latín.
