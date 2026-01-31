@@ -13,5 +13,5 @@ Ejes de la materia
 
 Conceptos importantes:
 - variante lingüística
-- diacronía saussureana --> variación lingüística y [familia lingüística.]()
+- [[Saussure - Diacronía y fonética]] --> variación lingüística y [familia lingüística.]()
 - Fonema --> elemento principal donde observar cambios.
