@@ -9,3 +9,7 @@ Instituyente = posibilidades, espacios de cambio
 	-Instituciones se manejan en la tensión entre lo instituido y lo instituyente.
 	-TICS (tecnologías de la información), aunque algunas ya están instituidas, ya no son ni novedosas ni de cambio.
 	-Es dinámico, cambia con el tiempo.
+
+Para leer: Las instituciones educativas, cara y ceca
+- Los conceptos de cultura y de imaginario institucional
+- 
