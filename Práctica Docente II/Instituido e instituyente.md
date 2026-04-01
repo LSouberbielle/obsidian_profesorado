@@ -12,4 +12,3 @@ Instituyente = posibilidades, espacios de cambio
 
 Para leer: Las instituciones educativas, cara y ceca
 - Los conceptos de cultura y de imaginario institucional
-- 
