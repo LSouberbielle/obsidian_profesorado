@@ -21,4 +21,4 @@ https://que.fcc.unc.edu.ar/de-la-vigilancia-escolar-a-la-pedagogia-de-las-memori
 
 Consigna
 Escribe un texto a partir de la primera 
-Imagina que tienes que dejar atrás a tu familia y tu hogar y te interesa dejar por escrito un registro que reconstruya 
+Imagina que tienes que dejar atrás a tu familia, amigos, el lugar y te interesa dejar por escrito un registro que reconstruya 
