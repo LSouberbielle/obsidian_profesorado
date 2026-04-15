@@ -18,3 +18,7 @@ Escuela durante 100 años
 
 Leer De la vigilancia escolar a la pedagogía de las memorias
 https://que.fcc.unc.edu.ar/de-la-vigilancia-escolar-a-la-pedagogia-de-las-memorias/
+
+Consigna
+Escribe un texto a partir de la primera 
+Imagina que tienes que dejar atrás a tu familia y tu hogar y te interesa dejar por escrito un registro que reconstruya 
