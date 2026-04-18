@@ -18,3 +18,11 @@ Escuela durante 100 años
 
 Leer De la vigilancia escolar a la pedagogía de las memorias
 https://que.fcc.unc.edu.ar/de-la-vigilancia-escolar-a-la-pedagogia-de-las-memorias/
+
+Consigna
+Escribe un texto a partir de la primera 
+Tras tener que dejar atrás a tu familia, amigos, el lugar de donde venís te interesa dejar por escrito un registro que reconstruya lo que era importante para vos, o lo que quisieras que alguien conociera. Imagina que una vez que dejes este mensaje, ya no podrás cambiarlo, quedará para la posteridad de esta forma. Si es así, qué escribirías? ¿Hay algo que te gustaría que alguien sepa de vos, del lugar de dónde venís? ¿Por qué?
+
+Perspectiva constructivista y sociocultural en el diseño curricular de Córdoba.
+
+Para el 22/04 --> Revisar AV
