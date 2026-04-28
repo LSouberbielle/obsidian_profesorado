@@ -1,0 +1,1 @@
+Ver conflictos que se plantean en la película elegida (participantes del conflicto según bibliografía)
