@@ -19,3 +19,7 @@ Preguntarle a la IA como enriquecerían esos conceptos y qué autores sugiere pa
 
 
 A partir de lo leído, elaborar un cuestionario para intercambiar y ser respondido por sus compañeros.
+
+Curriculum - Selección social de lo que se va a enseñar, culturalmente válido.
+Son contenidos
+Luego pasa por una adaptación curricular que termina realizando el docente
