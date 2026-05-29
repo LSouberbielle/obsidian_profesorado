@@ -9,3 +9,7 @@
 4. ¿Qué conclusiones críticas esboza respecto del tiempo medido, la ciencia y la industria como contraste de todo lo anterior?
 
 5. Comenzar a indagar sobre todo aquello que muestra este texto como exponente del género ensayo literario.
+
+Hesse cuestiona por qué occidente tiene que limitarse solamente a lo productivo.
+Tendencia alemana de mirar con fascinación a oriente, desde lo filósofos hasta los escritores.
+Rescata la indolencia en escritores orientales que no temen perder el tiempo en descripciones y detalles. -- Ociosidad desarrollada hasta convertirse en un arte.
