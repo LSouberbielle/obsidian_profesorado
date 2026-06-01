@@ -90,4 +90,4 @@ Posible pregunta de parcial
 Comparación entre sainete y grotesco, qué significo el cambio de uno a otro.
 
 ## 📌 Tareas y fechas
-*Entregas, lecturas para la próxima clase*
+Leer Stefan
