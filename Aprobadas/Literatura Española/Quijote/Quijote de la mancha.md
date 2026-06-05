@@ -1,3 +1,8 @@
+---
+aliases:
+  - "[Quijote]"
+---
+
 Innovación en el prólogo
 Lope de Vega -- Amigo, conocido del ambiente literario, "rival" de [[Cervantes]].
 Centro del sistema literario de la época.

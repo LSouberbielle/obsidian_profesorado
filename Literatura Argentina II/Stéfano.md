@@ -10,15 +10,21 @@ Publicación: 1982-04-26
 
 ## 🌍 Contexto
 Estrenada en 1928
-
-Lectura global: La historia del fracaso del inmigrante. Un hombre que vino con un gran sueño, no lo consiguió y  se empobreció en el camino. Construido con giros cómicos propios del grotesco criollo.
+[[Armando Discépolo]]
+Lectura global: La historia del fracaso del inmigrante. Un hombre que vino con un gran sueño, no lo consiguió y  se empobreció en el camino. Construido con giros cómicos propios del [[grotesco criollo]].
 
 ## 📋 Argumento
 *Resumen breve de la obra*
 
 ## 🎭 Personajes clave
 Abuelos: hablan en cocoliche.
-
+Ñeca: Ya habla como argentina, no como sus abuelos.
+María Rosa: Nadie en la familia le produce felicidad.
+Descripción de Margatita
+Margarita -> Su hijo es el único que le da felicidad y apoya su sueño.
+Alfonso: acusa a Stéfano de hacerlo dejar Italia.
+"Atravesamos el mar para perseguir la mariposa que nunca se alcanza", también lo juzga por casarse con una argentina.
+Todos tristes, cansados, preocupados por otros.
 ## 🔍 Ejes de análisis
 ##### ¿Cómo se dan las relaciones entre padre e hijo?
 **Estructura tripartita**
@@ -55,6 +61,8 @@ Subjetividad migrante = oscila entre ilusión y desencanto.
 "Lo ajeno ha aplastado lo mío" - Stéfano, p.75.
 (lo que sabe de música ha aplastado su forma de ser artista, pero dicho por un inmigrante tiene otra connotación)
 
+"La vida no es solo pan, también es paz y contento".
+
 ## 🤔 Tu lectura
 *Qué te generó, qué te llamó la atención, con qué disentís*
 
@@ -63,3 +71,7 @@ Subjetividad migrante = oscila entre ilusión y desencanto.
 
 ## 📝 Síntesis
 *En dos o tres líneas, qué es la obra y qué te dejó*
+
+%%
+[[inmigrantes]]
+%%

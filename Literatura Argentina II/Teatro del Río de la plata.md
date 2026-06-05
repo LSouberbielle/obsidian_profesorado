@@ -6,7 +6,7 @@ textos: Stéfano
 autores: Armando Discépolo
 ---
 
-# 📚 Programa y Stefano — 01/06/2026
+# 📚 Programa y Stéfano — 01/06/2026
 
 
 | Unidad 1                                        | Lecturas |
@@ -54,11 +54,11 @@ Escritores de sainetes trataron de reflejar a través de estereotipos estas proc
 [[Género popular]]
 - No requiere saber leer
 - Experiencia colectiva e irrepetible: el *convivio*
-- El cuerpo en escena produce un realismo particular: catarsis aristotélica
+- El cuerpo en escena produce un realismo particular: [[catarsis]] aristotélica
 
 Aparece el [[cocoliche]], mezcla de español y dialectos italianos. El sainete escribía esta lengua, era cultura de la mezcla ([[Beatriz Sarlo]]) --> No hay sistema cultural definido.
 
-Prieto --> Fundación del teatro argentino a partir de la llegada de los inmigrantes, porque es capaz de representar la realidad social de los inmigrantes en una lengua próxima a ellos (el cocoliche)
+Prieto --> Fundación del teatro argentino a partir de la llegada de los [[inmigrantes]], porque es capaz de representar la realidad social de los inmigrantes en una lengua próxima a ellos (el cocoliche)
 
 Ordaz, p88 --> Sainete como arte escénico popular de la etapa inmigratoria
 
@@ -66,7 +66,7 @@ Ordaz, p88 --> Sainete como arte escénico popular de la etapa inmigratoria
 - Género importado de España, adaptado localmente
 - Obras breves, de costumbre, graciosas (slice of life)
 - Personajes caricaturescos. Con latiguillos, sencillos, estereotípicos.
-- Espacio: el patio del conventillo
+- Espacio: el patio del [[conventillo]]
 - Humor sobre el fracaso del sueño migratorio
 - Formula repetitiva, industrial, género que se deteriora por la abundante repetición --> Necesidad de transformación
 - Sentará bases para el grotesco?
@@ -83,7 +83,7 @@ Ordaz, p88 --> Sainete como arte escénico popular de la etapa inmigratoria
 	Vacarezza, La receta del sainete
 
 ## 🔗 Conexiones
-*[[Links]] a otros textos, conceptos o materias*
+
 
 ## ⏳ Expandir después
 Posible pregunta de parcial
@@ -91,3 +91,7 @@ Comparación entre sainete y grotesco, qué significo el cambio de uno a otro.
 
 ## 📌 Tareas y fechas
 Leer Stefan
+
+%%
+[[Armando Discépolo]] [[Stéfano]]
+%%
