@@ -2,7 +2,7 @@
 fecha: 2026-06-01
 materia: Literatura Argentina II
 tipo: Clase
-textos: Stefano
+textos: Stéfano
 autores: Armando Discépolo
 ---
 
