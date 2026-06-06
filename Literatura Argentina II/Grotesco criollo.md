@@ -17,7 +17,7 @@ autores: Armando Discépolo
 #### Comparación entre grotesco y sainete criollo
 
 Lo grotesco según [[Armando Discépolo]] = llegar a lo cómico a través de lo dramático --> Conciencia estética del autor sobre lo que está escribiendo.
-Lo grotesco es una cuestión [[estética]] que trasciende lo literario y puede ver en otras artes, como sucede con el [[Quijote]].
+Lo grotesco es una cuestión [[estética]] que trasciende lo literario y puede ver en otras artes, como sucede con el [[Quijote de la mancha|Quijote]].
 ## 🔍 Análisis y discusión
 
 | Estabiliza la identidad, romantiza y reduce a estereotipos la pobreza | Escarba en la problemática, la expone como sufrimiento                                              |

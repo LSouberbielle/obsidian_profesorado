@@ -67,7 +67,7 @@ Subjetividad migrante = oscila entre ilusión y desencanto.
 *Qué te generó, qué te llamó la atención, con qué disentís*
 
 ## 🔗 Conexiones
-*[[Links]] a otros textos, autores, conceptos teóricos*
+*Links a otros textos, autores, conceptos teóricos*
 
 ## 📝 Síntesis
 *En dos o tres líneas, qué es la obra y qué te dejó*
