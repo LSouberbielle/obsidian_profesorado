@@ -30,14 +30,3 @@ Lo grotesco es una cuestión [[estética]] que trasciende lo literario y puede v
 Manera de transmitir comicidad a través de lo trágico.
 El concepto de grotesco es más amplio que el grotesco criollo.
 Primera obra de lo que consideramos grotesco criollo es Mateo de Discépolo. Stéfano 
-## 📎 Lecturas complementarias
-*Textos sugeridos, referencias adicionales*
-
-## 🔗 Conexiones
-*Links a otros textos, conceptos o materias*
-
-## ⏳ Expandir después
-*Lo que quedó críptico o incompleto para desarrollar luego*
-
-## 📌 Tareas y fechas
-*Entregas, lecturas para la próxima clase*
