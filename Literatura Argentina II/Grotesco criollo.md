@@ -34,7 +34,7 @@ Primera obra de lo que consideramos grotesco criollo es Mateo de Discépolo. St�
 *Textos sugeridos, referencias adicionales*
 
 ## 🔗 Conexiones
-*[[Links]] a otros textos, conceptos o materias*
+*Links a otros textos, conceptos o materias*
 
 ## ⏳ Expandir después
 *Lo que quedó críptico o incompleto para desarrollar luego*

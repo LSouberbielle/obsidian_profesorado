@@ -21,7 +21,7 @@ fecha: <% tp.date.now("YYYY-MM-DD") %>
 *Qué te genera, con qué acordás o disentís*
 
 ## 🔗 Conexiones
-*[[Links]] a otros textos, autores o conceptos*
+*Links a otros textos, autores o conceptos*
 
 ## 📝 Síntesis
 *En dos o tres líneas, qué dice el texto y qué te dejó*

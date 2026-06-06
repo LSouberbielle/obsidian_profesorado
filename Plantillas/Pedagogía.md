@@ -20,7 +20,7 @@ autores:
 *Cómo se aplica en el aula o en la institución*
 
 ## 🔗 Conexiones
-*[[Links]] a otras materias, conceptos o textos*
+*Links a otras materias, conceptos o textos*
 
 ## ⏳ Expandir después
 *Lo que quedó incompleto para desarrollar luego*
