@@ -27,7 +27,7 @@ autores: Armando Discépolo
 
 | Unidad 3 - Escritura, poder y lo real | Obras                                |
 | ------------------------------------- | ------------------------------------ |
-| Ciudad y marginalidad                 | Arlt -                               |
+| Ciudad y marginalidad                 | Arlt - Las aguas fuertes.            |
 | Testimonio, investigación y denuncia  | Walsh - Operación masacre, Esa mujer |
 | Historia y voces subalternas          | Demitrópulos - La flor de hierro     |
 | El silencio como forma narrativa      | Almeida - El colectivo               |
