@@ -1,6 +1,6 @@
 ---
 titulo: Tinieblas
-autor: Elías Castelnuovo
+autor: "[[Elías Castelnuovo]]"
 genero:
 periodo:
 materia: Literatura Argentina II
@@ -19,7 +19,11 @@ Luisa:
 Narrador: 
 
 ## 🔍 Ejes de análisis
-*Temas, motivos, recursos narrativos o poéticos destacados*
+Discurso científico para explicar como funciona la sociedad.
+Metáforas aunque no es característico de Boedo.
+Destrucción del cuerpo por parte del capitalismo.
+Binarismo, luz-sombras, vida-muerte.
+Presencia de los compañeros para mostrar que la explotación de los trabajadores es colectiva, no es un sufrimiento solo del narrador.
 
 ## 💬 Citas y comentarios
 *Fragmento relevante* → tu comentario
