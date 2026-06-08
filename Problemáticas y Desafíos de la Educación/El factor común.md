@@ -1,0 +1,1 @@
+Fomentar el criterio
