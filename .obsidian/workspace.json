@@ -11,10 +11,14 @@
             "id": "fed59d72bfd2b675",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Literatura Argentina II/Tinieblas.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Tinieblas"
             }
           }
         ]
@@ -189,8 +193,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "51b77bac63ec28f9",
+  "active": "fed59d72bfd2b675",
   "lastOpenFiles": [
+    "Literatura Argentina II/Tinieblas.md",
+    "Literatura Argentina II/Stéfano.md",
+    "Literatura Argentina II/Grotesco criollo.md",
+    "Lectura y escritura crítica y creativa/TP Adorno.md",
+    "Eventos/2026-08-28 Lit Arg. II - Parcial 1.md",
     "Rincón Mentat/Plantillas/Lectura.md",
     "Rincón Mentat/Plantillas/Guardados.md",
     "Rincón Mentat/Plantillas/Diario.md",
