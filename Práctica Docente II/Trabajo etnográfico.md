@@ -18,6 +18,8 @@ Herramientas:
 11) ¿Cómo afecta a la labor educativa ser parte de una escuela precursora?
 12) ¿Hay proyectos que vinculan la escuela con la comunidad?
 13) ¿Cómo caracterizarías a la población que asiste a la institución?
+14) ¿Cuáles son los principales valores que circulan en la institución?
+15) ¿Cómo participa la familia en la escuela?
 
 Estructura del trabajo:
 Consigna
