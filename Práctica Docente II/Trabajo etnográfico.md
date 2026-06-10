@@ -20,6 +20,7 @@ Herramientas:
 13) ¿Cómo caracterizarías a la población que asiste a la institución?
 14) ¿Cuáles son los principales valores que circulan en la institución?
 15) ¿Cómo participa la familia en la escuela?
+16) ¿Cómo caracterizarías a los estudiantes que asisten a la institución?
 
 Estructura del trabajo:
 Consigna
