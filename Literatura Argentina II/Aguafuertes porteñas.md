@@ -35,19 +35,29 @@ Características según Saitta ([[Saitta - Arlt y nuevas formas periodísticas]]
 - 1ra etapa: 1928 a 1930:
 	Aguafuerte clásica.
 	Notas más alegres, simpáticas, con leve crítica social  y más bien juguetona.
-	Centro de Buenos Aires.
+	==**Centro** de Buenos Aires,== parte más desarrollada.
+	Más literario.
 - 2da etapa: 1930 a 1937:
-	Aguafuerte de crítica social pos crisis del 30 y dictadura de Uriburu.
+	Aguafuerte de crítica social pos **crisis del 30 y dictadura** de Uriburu.
 	Saitta dice: Cambio urbano posterior a las crisis del 30 repercute en la escritura arlteana y politiza su mirada de la sociedad. Señala un sistema equivocado.
+	Más periodístico, de investigación.
 	De esta etapa es **Hospitales en la miseria**, relato de realismo naturalista que busca conmover a quien lo lee. Gran impacto de su nota en los hospitales y entre los enfermos. Usa las aguafuertes para denunciar y tiene efecto su escritura, logra cambios.
 	Recorre con un fotógrafo los barrios porteños y tenemos la sección **Buenos Aires se queja**.
 	Más político y crítico.
-	Periferia de Buenos Aires.
-- 
+	==**Periferia** de Buenos Aires.==
+	También viajes, Patagonia, Aguafuertes Cariocas, España.
+- 3ra etapa: 1937 a 1942:
+	"Aguafuerte internacionalista".
+	Buenos Aires aburrida para Arlt, dirige la mirada a ==**Europa**, la Segunda Guerra Mundial== y hará notas sobre la llegada del cable.
+Cambio geográfico exógeno conforme una etapa pasa a la siguiente. 
 
+## 📋 Diario El Mundo
 
-## 📋 Argumento
-*Resumen breve de la obra*
+- Fundado en 1928.
+- Políticamente es un diario tibio, para toda la familia, sin posturas políticas fuertes.
+- Culturalmente es un diario conservador, para todos, sin ofender la moral pública.
+- Técnicamente es un diario moderno, contrario a La Nación (modelo diario siglo XIX) es que era un más solemne y de intelectuales. Este tiene muchas secciones, textos cortos, mucha imagen, historieta. Para todos, en cualquier lugar y tiempo.
+- Arlt no adhería ideológicamente al diario pero le dieron su lugar. ==Tensión con la escritura de Roberto Arlt que era su escritor estrella==: en algunos textos dice "el diario me ha prohibido que diga X palabra"
 
 ## 🔍 Ejes de análisis
 PARA PARCIAL: posible consigna de analizar un aguafuerte y señalar cómo se aplican las características descriptas.
