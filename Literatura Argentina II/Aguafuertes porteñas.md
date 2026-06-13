@@ -59,8 +59,8 @@ Cambio geográfico exógeno conforme una etapa pasa a la siguiente.
 - Técnicamente es un diario moderno, contrario a La Nación (modelo diario siglo XIX) es que era un más solemne y de intelectuales. Este tiene muchas secciones, textos cortos, mucha imagen, historieta. Para todos, en cualquier lugar y tiempo.
 - Arlt no adhería ideológicamente al diario pero le dieron su lugar. ==Tensión con la escritura de Roberto Arlt que era su escritor estrella==: en algunos textos dice "el diario me ha prohibido que diga X palabra"
 
-## 🔍 Ejes de análisis
-PARA PARCIAL: posible consigna de analizar un aguafuerte y señalar cómo se aplican las características descriptas.
+## 🔍 A tener en cuenta
+==PARA PARCIAL==: posible consigna de analizar un aguafuerte y señalar cómo se aplican las características descriptas.
 ## 💬 Citas y comentarios
 *Fragmento relevante* → tu comentario
 
