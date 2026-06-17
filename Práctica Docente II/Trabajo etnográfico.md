@@ -30,3 +30,10 @@ Breve historia de la institución
 Desarrollo de jornadas de observación
 Ritos que se observan en el colegio, ingreso, izar la bandera, recreos, salida, etc.
 Señalar qué, dónde y cuándo.
+
+
+**==Encabezado para entrevistas==**
+Título: (qué rol)
+Asignaturas que dicta y cuántos cursos tiene: 
+Años de antigüedad en la docencia: solo número
+Años de antigüedad en la institución:
