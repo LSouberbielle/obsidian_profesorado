@@ -26,6 +26,10 @@ Esto lleva a que la gramática cueste más que lo comunicacional porque nos falt
 ¿Qué es canon? ¿Qué leemos en la escuela y por qué?
 ¿Cómo puede relacionarse lo que leemos con el lugar donde enseñamos?
 Este no es el eje más preocupante, más énfasis en la enseñanza de la lengua.
+
+"No creo en la literatura infantil o adolescente ideológicamente como categorías" - Profe Flavio Salazar.
+
+Volver a la lengua porque la lengua pisa el aula, nos da espacio para respirar que la literatura nos obliga a llenar de otra madera.
 ## 💬 Debate y discusión
 *Lo que se discutió, posiciones, tensiones*
 
