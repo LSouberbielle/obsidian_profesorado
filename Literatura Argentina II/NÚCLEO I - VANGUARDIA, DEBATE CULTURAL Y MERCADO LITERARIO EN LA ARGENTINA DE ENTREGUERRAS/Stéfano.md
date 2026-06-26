@@ -11,7 +11,7 @@ Publicación: 1982-04-26
 ## 🌍 Contexto
 Estrenada en 1928
 [[Armando Discépolo]]
-Lectura global: La historia del fracaso del inmigrante. Un hombre que vino con un gran sueño, no lo consiguió y  se empobreció en el camino. Construido con giros cómicos propios del [[grotesco criollo]].
+Lectura global: La historia del fracaso del inmigrante. Un hombre que vino con un gran sueño, no lo consiguió y  se empobreció en el camino. Construido con giros cómicos propios del [[Grotesco criollo]].
 
 ## 📋 Argumento
 *Resumen breve de la obra*

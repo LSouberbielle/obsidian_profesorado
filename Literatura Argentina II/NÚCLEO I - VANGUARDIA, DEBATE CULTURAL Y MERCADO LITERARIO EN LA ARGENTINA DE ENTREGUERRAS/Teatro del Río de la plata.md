@@ -71,7 +71,7 @@ Ordaz, p88 --> Sainete como arte escénico popular de la etapa inmigratoria
 - Formula repetitiva, industrial, género que se deteriora por la abundante repetición --> Necesidad de transformación
 - Sentará bases para el grotesco?
 
-[[Grotesco Criollo]]
+[[Grotesco criollo]]
 - Combina drama y comedia.
 - 
 
