@@ -21,7 +21,7 @@ Arte más cerca de la vida, no separada de la vida.
 
 [[Modernidad periférica]] en Argentina
 La vanguardia argentina recoleta a las vanguardias Europeas
-[[Borges]] trae el ultraísmo en 1921.
+[[Borges - Tlön]] trae el ultraísmo en 1921.
 
 Dos grupos, Florida y Boedo
 
