@@ -14,7 +14,7 @@ Herramientas:
 7) ¿Cómo se toman las decisiones importantes y quiénes suelen participar en ellas?
 8) ¿Qué normas, acuerdos o formas de hacer las cosas son importantes en esta institución, aunque no siempre estén escritas?
 9) ¿Qué cambios importantes ha vivido la institución en los últimos años y cómo impactaron en su funcionamiento?
-10) Si pudieras proponer una mejora concreta para la institución, ¿cuál sería y por qué
+10) Si pudieras proponer una mejora concreta para la institución, ¿cuál sería y por qué?
 11) ¿Cómo afecta a la labor educativa ser parte de una escuela precursora?
 12) ¿Hay proyectos que vinculan la escuela con la comunidad?
 13) ¿Cómo caracterizarías a la población que asiste a la institución?
