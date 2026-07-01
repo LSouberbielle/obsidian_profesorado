@@ -9,18 +9,19 @@ Herramientas:
 2) ¿Cómo describirías la institución a alguien que no la conoce?
 3) ¿Qué aspectos destacarías del funcionamiento de la institución?
 4) ¿Cuáles son las principales desafíos que atraviesa actualmente la institución?
-5) ¿Cómo circula la información dentro de la institución?
-6) ¿Cómo describiría los vínculos entre los distintos actores institucionales?
-7) ¿Cómo se toman las decisiones importantes y quiénes suelen participar en ellas?
-8) ¿Qué normas, acuerdos o formas de hacer las cosas son importantes en esta institución, aunque no siempre estén escritas?
-9) ¿Qué cambios importantes ha vivido la institución en los últimos años y cómo impactaron en su funcionamiento?
-10) Si pudieras proponer una mejora concreta para la institución, ¿cuál sería y por qué?
-11) ¿Cómo afecta a la labor educativa ser parte de una escuela precursora?
-12) ¿Hay proyectos que vinculan la escuela con la comunidad?
-13) ¿Cómo caracterizarías a la población que asiste a la institución?
-14) ¿Cuáles son los principales valores que circulan en la institución?
-15) ¿Cómo participa la familia en la escuela?
-16) ¿Cómo caracterizarías a los estudiantes que asisten a la institución?
+5) ¿Qué conflictos observas y cómo los afrontas?
+6) ¿Cómo circula la información dentro de la institución?
+7) ¿Cómo describiría los vínculos entre los distintos actores institucionales?
+8) ¿Cómo se toman las decisiones importantes y quiénes suelen participar en ellas?
+9) ¿Qué normas, acuerdos o formas de hacer las cosas son importantes en esta institución, aunque no siempre estén escritas?
+10) ¿Qué cambios importantes ha vivido la institución en los últimos años y cómo impactaron en su funcionamiento?
+11) Si pudieras proponer una mejora concreta para la institución, ¿cuál sería y por qué?
+12) ¿Cómo afecta a la labor educativa ser parte de una escuela precursora?
+13) ¿Hay proyectos que vinculan la escuela con la comunidad?
+14) ¿Cómo caracterizarías a la población que asiste a la institución?
+15) ¿Cuáles son los principales valores que circulan en la institución?
+16) ¿Cómo participa la familia en la escuela?
+17) ¿Cómo caracterizarías a los estudiantes que asisten a la institución?
 
 Estructura del trabajo:
 Consigna

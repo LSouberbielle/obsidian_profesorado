@@ -13,11 +13,12 @@ Aproximación pragmática a la realidad cotidiana.
 Materia mediando entre los estudios del lenguaje tendiendo al análisis del discurso.
 La enseñanza como algo vivo, que se ve.
 
-Estructuralismo como paradigma anterior
+Estructuralismo como paradigma anterior - La parte por el todo, perdida de contexto.
+Estructuralismo ayuda a desarrollar el pensamiento abstracto.
 Consecuencia del estructuralismo, atomiza demasiado y no llegamos a entender en primera instancia la interrelación de los elementos del sistema.
 Pro del estructuralismo: podemos describir las diferentes unidades del sistema de la lengua.
 
-Paradigma actual comunicacional: más contextual.
+Paradigma actual comunicacional: más contextual. (demasiado contexto)
 
 Las provincias hacen hibridaciones de estos paradigmas en sus currículas.
 
