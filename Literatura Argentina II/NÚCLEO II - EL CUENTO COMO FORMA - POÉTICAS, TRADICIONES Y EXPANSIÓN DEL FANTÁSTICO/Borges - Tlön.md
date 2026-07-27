@@ -32,6 +32,10 @@ Reformulación de lo que los personajes dicen, recuerdan, de lo que está en el 
 También traducción de lo que dice en las enciclopedias, la traducción es una versión.
 Literatura de Uqbar, versión de la realidad.
 
+Características de los cuentos de Borgers:
+- Referencias a versiones o traducciones -- sus cuentos surgen de ahí.
+- Uso de citas textuales, referencias eruditas.
+
 
 ## 💡 Biografía de Borges
 - Nace en 1899. -> Piglia dice que es "el último escritor del siglo XIX".
