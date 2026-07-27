@@ -44,6 +44,10 @@ I) primera aproximación a Uqbar/Tlön (Tlön es el mundo inventado dentro de Uq
 II) Descubrimiento del mundo de Tlön (mundo regido por la filosofía idealista - Berkeley)
 Posdata) "El mundo será Tlön". La ficción invade la realidad.
 
+Lectura global:
+Dos visiones éticas de la ficción.
+- Ficción como "laberinto" humano.
+- Ficción como desintegración de la realidad.
 
 
 ## 💡 Biografía de Borges
