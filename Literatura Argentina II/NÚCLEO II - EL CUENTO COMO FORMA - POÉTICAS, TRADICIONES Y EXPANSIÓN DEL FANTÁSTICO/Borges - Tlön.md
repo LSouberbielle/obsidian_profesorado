@@ -32,9 +32,18 @@ Reformulación de lo que los personajes dicen, recuerdan, de lo que está en el 
 También traducción de lo que dice en las enciclopedias, la traducción es una versión.
 Literatura de Uqbar, versión de la realidad.
 
-Características de los cuentos de Borgers:
+Características de los cuentos de Borges:
 - Referencias a versiones o traducciones -- sus cuentos surgen de ahí.
 - Uso de citas textuales, referencias eruditas.
+- Metaficción, ficción dentro de ficción.
+- Objetos fantásticos que generan paradojas, conflictos lógicos
+
+En Tlön vemos como la ficción invade la realidad.
+Estructura del cuento en tres partes.
+I) primera aproximación a Uqbar/Tlön (Tlön es el mundo inventado dentro de Uqbar)
+II) Descubrimiento del mundo de Tlön (mundo regido por la filosofía idealista - Berkeley)
+Posdata) "El mundo será Tlön". La ficción invade la realidad.
+
 
 
 ## 💡 Biografía de Borges
