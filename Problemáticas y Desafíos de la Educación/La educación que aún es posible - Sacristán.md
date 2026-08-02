@@ -4,7 +4,6 @@ autor: Gimeno Sacristán
 materia: Problemáticas y desafíos de la educación secundaria
 fecha: 2026-06-27
 ---
-PRUEBA
 # 📄 Punteo de ideas
 ##### Capítulo 1:
 - Necesidad de reinvención de las instituciones educativas mediante un nuevo contrato entre los agentes educativos.
