@@ -1,0 +1,39 @@
+### 1) ProA — Programa Avanzado de Educación Secundaria
+
+**1. Características de la modalidad**  
+No es una modalidad en el sentido estricto de la Ley de Educación Nacional (como sí lo son la técnica, la rural o la de encierro), sino un **programa/formato experimental** dentro de la escolaridad orientada. Se distingue por: un proyecto educativo con estrategias pedagógico-didácticas que buscan trayectorias escolares integrales, un proyecto curricular orientado a aprendizajes complejos y a "aprender a aprender", y un formato institucional que integra lenguajes multimediales y acerca la cultura escolar a las culturas juveniles. Además, la jornada escolar tiene un mínimo de 8 horas diarias de permanencia en la institución, y los docentes son seleccionados por una comisión mixta entre Ministerio de Educación y UEPC, priorizando el trabajo en equipo y el uso de TIC. [Transformarlasecundaria](https://transformarlasecundaria.org/formar-comunidades-de-aprendizaje-programa-avanzado-de-educacion-secundaria-escuelas-pro-a-pcia-de-cordoba/)[Transformarlasecundaria](https://transformarlasecundaria.org/formar-comunidades-de-aprendizaje-programa-avanzado-de-educacion-secundaria-escuelas-pro-a-pcia-de-cordoba/)
+
+**2. Año de creación y norma**  
+Nace en **2014**, mediante la Resolución Ministerial 136/14. En **2016** se amplió con la orientación en Biotecnología, y en **2022** se sumaron nuevas especialidades (Robótica/Automatización Industrial, Programación, Nuevas Tecnologías Aplicadas al Agro) a **seis años de cursado**, dependientes de la Dirección General de Educación Técnica y Formación Profesional. [Isep-cba](https://schole.isep-cba.edu.ar/experiencias-pedagogicas-escuela-proa-cordoba-capital/)
+
+**3. Finalidad**  
+Surge como respuesta al contexto de desarrollo acelerado de las tecnologías de la información y la comunicación (TIC) y a la transformación en las formas de interactuar entre las personas y con el conocimiento. Busca modernizar el formato escolar tradicional y formar estudiantes con perfil digital para las demandas productivas de la región (software, biotecnología, agro, robótica). [UNVM](https://www.unvm.edu.ar/escuela-proa/)
+
+**4. Planes de estudio / comparación con la escolaridad regular**  
+El título es de **Bachiller en Informática** (orientación Desarrollo de Software) o equivalentes en Biotecnología/Robótica/Agro. A diferencia del IPEM regular, ProA no organiza el año en materias fragmentadas por profesor sino en proyectos y espacios curriculares integrados, con fuerte carga horaria en TIC. Comparte con la escolaridad regular la estructura de 6 años y la acreditación por régimen académico provincial, pero se diferencia en la jornada extendida y en el ingreso, que muchas veces es por sorteo dada la alta demanda.
+
+**5. Escuela cercana a Cosquín**  
+La escuela PROA de LA Falda, con matricula de 130 y supuesta capacidad para 180. Fundada en 2019 y con edificio conseguido recién en 2025.
+
+### 2) Educación en Contextos de Encierro (ECE)
+
+**1. Características**  
+Es la modalidad del sistema educativo destinada a garantizar el derecho a la educación de todas las personas que atraviesan una situación de privación de libertad, para promover su formación integral y desarrollo pleno; este derecho no admite limitación ni discriminación alguna y se comunica a la persona desde su ingreso a la institución. La Resolución del Consejo Federal de Educación 127/10 establece que abarca tres tipos de instituciones: cárceles (incluye niños/as que conviven con sus madres detenidas), centros socioeducativos para adolescentes en conflicto con la ley penal, y también centros de tratamiento de adicciones. [Argentina.gob.ar](https://www.argentina.gob.ar/modalidad-de-educacion-en-contextos-de-encierro)[Argentina.gob.ar](https://www.argentina.gob.ar/modalidad-de-educacion-en-contextos-de-encierro)
+
+**2. Año de creación y leyes que la sostienen**  
+A nivel nacional queda establecida por la **Ley de Educación Nacional 26.206** (2006, artículos 55 a 59) y se refuerza con la **Ley 26.695** (2011), que modificó el capítulo VIII de la Ley de Ejecución Penal 24.660 para garantizar el acceso pleno a la educación en todos los niveles. En Córdoba, la **Ley Provincial de Educación 9.870** (2010) la incorpora en sus artículos 56 y 57, encuadrándola dentro de la modalidad de educación para jóvenes y adultos, abarcando tanto a personas adultas privadas de libertad como a menores en conflicto con la ley penal. [Igualdadycalidadcba](https://www.igualdadycalidadcba.gov.ar/SIPEC-CBA/publicaciones/ModalidadECE/01-Recorrido-historico-de-la-ECE.pdf)
+
+**3. Finalidad**  
+Garantizar el cumplimiento de la escolaridad obligatoria a todas las personas privadas de libertad, dentro o fuera de las instituciones de encierro según lo permitan las condiciones de detención; ofrecer formación técnico profesional en todos los niveles; y favorecer el acceso y la permanencia en la Educación Superior, incluyendo un sistema gratuito de educación a distancia. [Argentina.gob.ar](https://www.argentina.gob.ar/modalidad-de-educacion-en-contextos-de-encierro)
+
+**4. Planes de estudio / comparación**  
+Funciona a través de escuelas anexas dentro de las unidades penitenciarias (CENMA para nivel secundario de jóvenes y adultos, CENPA para primaria), que dictan los mismos diseños curriculares que sus escuelas "matrices" en el afuera, adaptados a la modalidad de jóvenes y adultos (más flexible en tiempos y presencialidad que la escolaridad regular de adolescentes). En Córdoba también hay convenios universitarios: por ejemplo, el Programa Universitario en la Cárcel (PUC) de la UNC, para quienes quieren continuar estudios superiores.
+
+**5. Ejemplo cercano a Cosquín**  
+Ojo con este punto: en el Valle de Punilla **no hay una unidad penitenciaria** (las principales son Complejo Carcelario N°1 en Bower, Complejo N°2, Colonia Abierta Monte Cristo, EP N°8 en Villa Dolores, EP N°5 en Villa María, EP N°7 en San Francisco, y el establecimiento de mujeres de Alto El Durazno). Sí encontré referencia a un dispositivo educativo con sede "Punilla" dentro del programa CENMA/CENPA de jóvenes y adultos, pero no pude confirmar si corresponde específicamente a un contexto de encierro o a otra sede de la modalidad. Te sugiero, para este punto puntual, contactar a la Dirección General de Educación de Jóvenes y Adultos (Ministerio de Educación de Córdoba) o a la Coordinación de la Modalidad ECE, para que te confirmen si hay un anexo en Punilla o si el más cercano sigue siendo el de Bower/Capital.
+
+### 6) Resoluciones vigentes hoy
+
+Confirmando lo que ya tenías: por Resolución 11/2025 de la Secretaría de Educación se dejó sin efecto la Resolución Ministerial 18/2018 y se aprobó el nuevo Régimen Académico de la Educación Secundaria, de aplicación obligatoria desde el ciclo lectivo 2025 en todas las instituciones de gestión estatal y privada, en el marco del programa "TransFORMAR@Cba", de renovación curricular y didáctica para el período 2025-2027. Este régimen académico (06/25 y 11/25 que mencionás) es **transversal**: rige la organización de la enseñanza, evaluación y acreditación en toda la secundaria orientada, técnica y en los distintos programas — incluido ProA, que funciona dentro de la secundaria orientada/técnica. [AMCEC](https://amcec.com.ar/se-aprueba-el-regimen-academico-de-la-educacion-secundaria-de-la-provincia-de-cordoba-ano-2025/)[UEPC](https://uepc.org.ar/conectate/resolucion-11-nuevo-regimen-academico-para-la-escuela-secundaria/)
+
+Para ECE, en cambio, lo que sigue vigente es el marco específico de la modalidad (Ley 26.206 arts. 55-59, Ley 26.695, Ley provincial 9.870 arts. 56-57 y la Resolución CFE 127/10), que convive con el régimen académico general pero regula las particularidades de la escolarización en encierro (ingreso, continuidad ante traslados, etc.).
