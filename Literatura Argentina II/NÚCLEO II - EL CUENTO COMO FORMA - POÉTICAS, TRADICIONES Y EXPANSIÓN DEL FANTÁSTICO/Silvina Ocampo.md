@@ -29,7 +29,6 @@ Comenzó pintando, después pasó a la literatura.
 - Crueldad como tema recurrente.
 - Desestabilización de la identidad (dicotomía ser/parecer)
 - El fantástico de las pequeñas cosas (el mundo secreto, detalles cotidianos que cambian repetible e irrevocablemente)
-- 
 
 ## 🔍 Análisis y discusión
 *Lo que se desarrolló en clase*
