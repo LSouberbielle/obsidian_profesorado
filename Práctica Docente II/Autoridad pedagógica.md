@@ -1,3 +1,7 @@
+Realizar punteo de ideas fundamentales de especialistas que aparecen en el Video de Caminos de Tiza. https://www.youtube.com/watch?v=uHNYiBuzMOY
+
+
+
 Resumen de Gonzalo:
 ##### Beatriz Greco
 
