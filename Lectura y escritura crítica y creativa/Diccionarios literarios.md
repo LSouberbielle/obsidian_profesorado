@@ -15,8 +15,6 @@ Por qué del diablo y del loco
 
 Palabras que coinciden entre diccionarios
 
-
-
 Bufón
 Historia
 Ignorante
@@ -30,16 +28,3 @@ Memoria/Desmemoria
 
 Buscarlas primero en Rae, luego en los diccionarios
 
-
-
-## 📎 Lecturas complementarias
-*Textos sugeridos, referencias adicionales*
-
-## 🔗 Conexiones
-*Links a otros textos, conceptos o materias*
-
-## ⏳ Expandir después
-*Lo que quedó críptico o incompleto para desarrollar luego*
-
-## 📌 Tareas y fechas
-*Entregas, lecturas para la próxima clase*
