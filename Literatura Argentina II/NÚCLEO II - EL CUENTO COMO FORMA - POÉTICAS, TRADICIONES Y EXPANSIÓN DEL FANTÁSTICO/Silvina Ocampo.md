@@ -25,7 +25,10 @@ Comenzó pintando, después pasó a la literatura.
 - Representación del orden burgués, organización familiar de la vida, entorno a una casa.
 - Recurrencia de detalle realista.
 	Funciones: 1) Refuerza la verosimilitud, 2) Contraste con la tragedia, 3) Caricaturiza el orden burgués.
-- Personajes típicos: niños (expuestos a situaciones tenebrosas, trágicas, niños malos/traviesos) y mujeres (que desafían la posición social de la mujer)
+- Personajes típicos: niños (crueles, no supervisados por adultos, vulnerables, expuestos a situaciones tenebrosas, trágicas, niños malos/traviesos) y mujeres (que desafían la posición social de la mujer, inestables en términos de identidad de género)
+- Crueldad como tema recurrente.
+- Desestabilización de la identidad (dicotomía ser/parecer)
+- El fantástico de las pequeñas cosas (el mundo secreto, detalles cotidianos que cambian repetible e irrevocablemente)
 
 ## 🔍 Análisis y discusión
 *Lo que se desarrolló en clase*
