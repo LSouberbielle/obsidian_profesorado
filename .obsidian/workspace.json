@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problemáticas y Desafíos de la Educación/La educación que aún es posible - Sacristán.md",
+                "file": "Literatura Argentina II/NÚCLEO III - Politización de la literatura/Operación Masacre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "La educación que aún es posible - Sacristán"
+              "title": "Operación Masacre"
             }
           }
         ]
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1932681983add039",
@@ -195,10 +196,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "f47c337fa056d204",
+  "active": "51b77bac63ec28f9",
   "lastOpenFiles": [
-    "Problemáticas y Desafíos de la Educación/La herramienta mágica que no fue diseñada para el aula.md",
     "Problemáticas y Desafíos de la Educación/La educación que aún es posible - Sacristán.md",
+    "Problemáticas y Desafíos de la Educación/La herramienta mágica que no fue diseñada para el aula.md",
     "Problemáticas y Desafíos de la Educación/El factor común.md",
     "conflict-files-obsidian-git.md",
     "Problemáticas y Desafíos de la Educación/Distintas modalidades de educación.md",
