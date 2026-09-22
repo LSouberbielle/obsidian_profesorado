@@ -58,7 +58,7 @@
                 "sortOrder": "alphabetical",
                 "autoReveal": false,
                 "showSearch": true,
-                "searchQuery": "d"
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -210,7 +210,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "cfa3e6b80ea481e1",
+  "active": "017cb6e4a595e3cc",
   "lastOpenFiles": [
     "Literatura Argentina II/apuntes_argentina_ii_ordenados.md",
     "Literatura Argentina II/NÚCLEO III - Politización de la literatura/Operación Masacre.md",
