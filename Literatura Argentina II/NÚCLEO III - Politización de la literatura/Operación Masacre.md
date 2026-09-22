@@ -33,17 +33,21 @@ Tres sentidos de valoración:
 2) Existencia de los hechos --> Los hechos no existen socialmente si no se los narra: sin Walsh, no habría memoria de los fusilamientos.
 3) Secuencia cronológica --> La historia (a diferencia de la experiencia) construye una cronología orientada: en este caso, para demostrar ilegalidad.
 
-Estrategias discursivas: doble código hermenéutico.
-Muestra a la vez el resultado de la investigación y su proceso.
+4 Estrategias discursivas:}
+- doble código hermenéutico --> Muestra a la vez el resultado de la investigación y su proceso.
+- Construcción de retratos de sujetos no politizados.
+- La interrogación.
+- La primera persona.
 Walsh ocupa el lugar de una voz ausente: la del juez
 - Contar y develar el enigma: Si el decreto entró en vigencia antes o después de los hechos.
 - Periodismo y política: Muestra sus relaciones y el lugar que ocupa el escritor como periodista justiciero.
 - Politizar el género: La novela de enigma no tenía inconsciente político; con Walsh, los recursos literarios se politizan.
+- Yo que hace la investigacón
 Primero persona en singular
 - Valor estético y ético: no sería lo mismo si fuera personal.
 - Valor axiológico: orienta valores, el lugar del periodista justiciero.
 ## 💬 Citas y comentarios
-*Fragmento relevante* → tu comentario
+Idea del escritor comprometido --> 
 
 ## 🤔 Tu lectura
 *Qué te generó, qué te llamó la atención, con qué disentís*
