@@ -41,6 +41,9 @@ En la etapa colonial vemos la búsqueda del dorado y la relación con los aborí
 - Incorporación del mundo indígena.
 - La narrativa de los vencidos o la forma que no llega a buen puerto
 	Trama que se dispersa, multiplica, con muchas historias que suelen terminar en tragedia.
+- Uso poético del lenguaje aplicado a la novela.
+	Menos preocupación por los hechos que Walsh le da más libertad en la forma.
+
 ## 💬 Citas y comentarios
 *Fragmento relevante* → tu comentario
 
