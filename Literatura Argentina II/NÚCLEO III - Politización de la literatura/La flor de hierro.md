@@ -15,9 +15,10 @@ fecha: 2026-09-07
 	- Por ser del interior, por escribir sobre la periferia mayoritariamente (jujeña)
 	- Por ser peronista
 	- No participó activamente del mundo literario, se dedicaba a la docencia
+- 6 novelas publicadas.
 
 ## 📖 Sobre la obra
-- Publicada den 1978 y recién reeditada en 2022
+- Publicada en 1978 y recién reeditada en 2022
 - Prosa poética adaptada a la censura de la dictadura
 - Trama temporalmente desdoblada entre el siglo XX y siglo XVI (colonia)
 - Continuidad de la violencia de la colonia hasta la situación de la novela
@@ -32,9 +33,14 @@ En la etapa colonial vemos la búsqueda del dorado y la relación con los aborí
 ## 🎭 Personajes clave
 *Quiénes son, qué representan*
 
-## 🔍 Ejes de análisis
-*Temas, motivos, recursos narrativos o poéticos destacados*
-
+## 🔍 Constantes de su obra
+- Las novelas forman un mapa de la Argentina.
+	Problematización interior/capital -- Filmar y cuestionar el agradecimiento de la procesión.
+- Problematización del rol social de la mujer
+	Mujeres en sus novelas que hacen cosas que no deberían hacer/no harían tradicionalmente, ocupando un lugar distinto.
+- Incorporación del mundo indígena.
+- La narrativa de los vencidos o la forma que no llega a buen puerto
+	Trama que se dispersa, multiplica, con muchas historias que suelen terminar en tragedia.
 ## 💬 Citas y comentarios
 *Fragmento relevante* → tu comentario
 
