@@ -44,11 +44,17 @@ En la etapa colonial vemos la búsqueda del dorado y la relación con los aborí
 - Uso poético del lenguaje aplicado a la novela.
 	Menos preocupación por los hechos que Walsh le da más libertad en la forma.
 
-## 💬 Citas y comentarios
-*Fragmento relevante* → tu comentario
-
+## 💬 Belloni: maternidades disidentes
+- Ciudades de barro (Medinas, Santiago del Estero)
+	- Maternidad negada
+	- Maternidad obligada
+	- Maternidad ilegítima
+	- Maternidad que fortalece lazos femeninos
+- Ciudad de oro (Trapalanga)
+	- Maternidad idealizada
 ## 🤔 Tu lectura
-*Qué te generó, qué te llamó la atención, con qué disentís*
+Continuidad del pasado colonial al presente de la novela
+Medinas como periferia en ambas temporalidades
 
 ## 🔗 Conexiones
 *Links a otros textos, autores, conceptos teóricos*
