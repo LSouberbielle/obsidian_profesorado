@@ -52,9 +52,12 @@ En la etapa colonial vemos la búsqueda del dorado y la relación con los aborí
 	- Maternidad que fortalece lazos femeninos
 - Ciudad de oro (Trapalanga)
 	- Maternidad idealizada
-## 🤔 Tu lectura
+## 🤔 Lectura
 Continuidad del pasado colonial al presente de la novela
 Medinas como periferia en ambas temporalidades
+Doble temporalidad: lectura en términos de **semiósfera. --> Yuri Lotman**
+	
+
 
 ## 🔗 Conexiones
 *Links a otros textos, autores, conceptos teóricos*
