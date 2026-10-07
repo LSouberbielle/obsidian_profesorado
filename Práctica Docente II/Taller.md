@@ -12,4 +12,8 @@ Libros álbum para taller
 	de Marije Tolman y Ronald Tolman
 - El árbol rojo
 	de Shaun Tan
-- 
+- Hada Desencantada busca príncipe encantador
+	de Graciela Bialet
+- El árbol de lilas
+- El pueblo que no quería ser gris
+- La casa de los cubos
