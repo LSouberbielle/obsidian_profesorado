@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f47c337fa056d204",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literatura Argentina II/NÚCLEO III - Politización de la literatura/Politización de la literatura.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Politización de la literatura"
-            }
-          },
-          {
             "id": "017cb6e4a595e3cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Práctica Docente II/Taller.md",
+                "file": "Lengua y literatura en Educación secundaria/Actividad para pensar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Taller"
+              "title": "Actividad para pensar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,8 +197,9 @@
   },
   "active": "017cb6e4a595e3cc",
   "lastOpenFiles": [
-    "Literatura Argentina II/NÚCLEO III - Politización de la literatura/Guia La Flor de Hierro.md",
     "Práctica Docente II/Taller.md",
+    "Lengua y literatura en Educación secundaria/Actividad para pensar.md",
+    "Literatura Argentina II/NÚCLEO III - Politización de la literatura/Guia La Flor de Hierro.md",
     "Literatura Argentina II/NÚCLEO III - Politización de la literatura/La flor de hierro.md",
     "Lectura y escritura crítica y creativa/Cosmología hinduista.md",
     "Lectura y escritura crítica y creativa/Borges sobre Kafka y crítica literaria.md",
@@ -240,7 +226,6 @@
     "Eventos/2026-08-24 Etnografía ProA entrega.md",
     "Eventos/2026-08-18 Entrega Problemáticas.md",
     "Problemáticas y Desafíos de la Educación/Morin.md",
-    "Literatura Argentina II/NÚCLEO II - EL CUENTO COMO FORMA - POÉTICAS, TRADICIONES Y EXPANSIÓN DEL FANTÁSTICO/Silvina Ocampo.md",
     "Literatura Argentina II/NÚCLEO II - EL CUENTO COMO FORMA - POÉTICAS, TRADICIONES Y EXPANSIÓN DEL FANTÁSTICO",
     "Literatura Argentina II/NÚCLEO I - VANGUARDIA, DEBATE CULTURAL Y MERCADO LITERARIO EN LA ARGENTINA DE ENTREGUERRAS",
     "Adjuntos/Pasted image 20260712152614.png",
