@@ -1,0 +1,5 @@
+
+|                         | La Flor de Hierro                                                         | Operación Masacre                                                                                                                                        |
+| ----------------------- | ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Problemáticas de género | Son centrales porque se problematiza el rol de la mujer sistematicamente. | Periféricas o inexistentes. Rol de la mujer borrado, no destacan ni son el eje de la problematización (mención a mujer que coopera con la investigación) |
+|                         |                                                                           |                                                                                                                                                          |
