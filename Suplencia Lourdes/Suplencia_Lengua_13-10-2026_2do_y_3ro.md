@@ -19,12 +19,12 @@ tags:
 
 > [!info] Panorama del día
 > **2.º año:** 80 min → recreo → 40 min. Continuación de *El principito*, recuperación de lectura y práctica cuidada de lectura en voz alta.  
-> **3.º año:** 40 min → recreo → 80 min. Inicio del proyecto «Noche de PowerPoints»: explicar un tema elegido por los estudiantes.  
+> **3.º año:** 40 min → recreo → 80 min. Recuperación teórica de textos expositivos, ideas principales/secundarias y palabras clave; introducción de recursos explicativos e inicio del proyecto «Noche de PowerPoints».  
 > **Criterio general:** hablar poco y orientar mucho. Alternar recuperación, trabajo individual, parejas y socialización; dejar consignas y tiempos visibles.
 
 ## Antes de salir de casa
 
-- [ ] Descargar en el dispositivo el PDF [[El-Principitocompleto.pdf]] y verificar que abra **sin conexión**. Si no está en la bóveda de Obsidian, este vínculo debe reemplazarse por la ubicación donde se guarde.
+- [x] Descargar en el dispositivo el PDF [[El-Principitocompleto.pdf]] y verificar que abra **sin conexión**. Si no está en la bóveda de Obsidian, este vínculo debe reemplazarse por la ubicación donde se guarde.
 - [ ] Releer los capítulos **25 (pp. 72–75)** y **26 (pp. 75–82)**. Para anticipar el desenlace, también el **27 (pp. 82–85)**. Las páginas son las del PDF de la Biblioteca del Congreso de la Nación (2016).
 - [ ] Si es posible, imprimir **páginas 75–82** del PDF para lectura compartida en grupos, y preparar las consignas de 2.º.
 - [ ] Tener en papel o en el pizarrón una alternativa **sin libros, sin proyector y sin celulares**.
@@ -154,111 +154,190 @@ Completar en parejas durante o después de la lectura:
 
 ---
 
-# 3.º año — Proyecto «Noche de PowerPoints»
+# 3.º año — Recuperación teórica + proyecto «Noche de PowerPoints»
 
 **Tiempo:** 120 minutos (40 + recreo + 80).  
-**Punto de partida:** los estudiantes vienen de trabajar el texto *Las abejas y su importancia*: tema, párrafos, ideas principales y secundarias, y palabras clave.  
-**Propósito de la suplencia:** transformar esa comprensión de textos expositivos en una **explicación oral** sobre un tema elegido por cada estudiante o equipo.
+**Punto de partida comprobable:** en las carpetas trabajaron el texto *Las abejas y su importancia*; separaron párrafos, subrayaron información principal, marcaron datos secundarios o ejemplos, escribieron palabras/frases clave y reconstruyeron ideas sin volver al texto.  
+**Propósito:** recuperar esas herramientas de comprensión, presentar o reforzar recursos explicativos y utilizarlos para organizar una exposición oral sobre un tema de interés personal.
 
-> [!important] Idea del proyecto
-> **«Mi tema en 3 minutos: enseñale algo al curso».** El formato se inspira en una «Noche de PowerPoints», pero no se trata solo de hacer diapositivas graciosas: hay que **explicar** con claridad y datos pertinentes. Humor e intereses personales, sí; información organizada, también.
-
-## Consigna general para presentar el proyecto
-
-> Elegí un tema que te interese de verdad y que puedas explicar a compañeros que quizá no conocen nada sobre él. Puede ser un videojuego, deporte, serie, artista, invento, animal, fenómeno curioso, actividad o afición. Tu presentación tendrá un título atractivo, una introducción, **tres ideas centrales**, al menos **dos recursos explicativos** y un cierre. Usá diapositivas o un apoyo visual sencillo, pero **no leas todo el texto**.
-
-**Formato inicial:** individual o en parejas, según el tamaño del curso y cómo resulte la conversación inicial. Si trabajan en pareja, ambos deben hablar. **Duración tentativa de la exposición:** 3–4 minutos por equipo (ajustar cuando se sepa cuántos equipos hay). Los grupos y la duración se confirman con el curso: no prometer presentaciones individuales extensas si no caben el martes 20.
+> [!important] Distinción para Lucho
+> Las carpetas **sí permiten confirmar** el trabajo con ideas principales/secundarias y síntesis. **No permiten asegurar** que ya hayan estudiado todos los recursos explicativos (definición, comparación, etc.). Por eso, primero recuperá lo conocido y después presentá esos recursos brevemente, como herramientas para el proyecto. Preguntales si ya conocen alguno.
 
 ## Desarrollo — 40 minutos antes del recreo
 
-| Minutos | Actividad | Intervención de Lucho |
+| Minutos | Actividad | Qué hace Lucho |
 |---:|---|---|
-| 0–5 | Presentación y explicación breve de cómo trabajarán. | Mostrar interés por el grupo. |
-| 5–15 | Recuperación de la carpeta sobre las abejas. | Preguntar cómo se encuentra la idea central de un texto. |
-| 15–25 | ¿Qué caracteriza una explicación expositiva? | Diferenciar **informar/explicar** de solo **opinar**. |
-| 25–40 | Presentación del desafío + lluvia de ideas. | Cada estudiante anota tres temas posibles y elige uno tentativo. |
+| 0–5 | Presentación y acuerdos. | Saludo breve, explicar que continuarán con textos expositivos y practicarán oralidad. |
+| 5–10 | Preguntas de recuperación. | ¿Qué era un texto expositivo? ¿Qué hicieron con el texto de las abejas? Escuchar y anotar dos o tres respuestas. |
+| 10–20 | **Recuperación teórica guiada** con esquema en pizarrón. | Reordenar definiciones: tema, idea principal, secundaria, palabras clave, párrafo. Dar un ejemplo. |
+| 20–30 | **Mini ejercicio** con un párrafo sobre las abejas. | Indicar tema, idea principal, dato secundario y tres palabras clave. Primero individual, luego en parejas. |
+| 30–40 | Corrección argumentada y puente a oralidad. | ¿Cómo usarían las ideas principales para explicarle este tema a alguien que nunca lo estudió? |
 
-### Disparador para el pizarrón
+### Apunte breve para recuperar en el pizarrón
 
-**«¿De qué podrías hablar durante tres minutos sin aburrirte?»**
+**Los textos expositivos** tienen como finalidad informar o explicar un tema de manera comprensible y organizada. Suelen desarrollar las ideas por párrafos, con datos, ejemplos y relaciones entre conceptos.
 
-Cada uno escribe tres opciones. Después, para su favorita, completa:
+| Concepto | Definición sencilla | Ejemplo sobre las abejas |
+|---|---|---|
+| **Tema** | Asunto general del que trata el texto; puede expresarse en pocas palabras. | *La importancia de las abejas.* |
+| **Idea principal** | Información fundamental que el texto o un párrafo explica **sobre ese tema**; suele expresarse como una oración completa. | *Las abejas cumplen un papel importante en la reproducción de muchas plantas.* |
+| **Ideas secundarias** | Datos, detalles y ejemplos que desarrollan o aclaran la principal. | *Al buscar néctar transportan polen entre flores.* |
+| **Palabras clave** | Términos esenciales que ayudan a recordar y organizar información. | *Abejas, polen, polinización, plantas.* |
+| **Párrafo** | Conjunto de oraciones que desarrollan una idea o aspecto del tema. | Un párrafo explica la polinización; otro, la relación con los cultivos. |
 
-- Mi tema sería: ____
-- Quiero que mis compañeros aprendan: ____
-- Tres cosas que podría explicar: 1) ____ 2) ____ 3) ____
-- Algo que todavía tendría que investigar o verificar: ____
+> [!tip] Distinción importante
+> **Tema ≠ idea principal.** «Las abejas» nombra el asunto; «Las abejas favorecen la reproducción de numerosas plantas» dice **qué afirma** el texto sobre ese asunto. La información principal no tiene por qué ser la primera oración en todos los párrafos.
 
-**Mini-recuperación de contenidos:** preguntar qué datos sobre las abejas serían imprescindibles en una explicación breve y cuáles servirían como ejemplos o ampliaciones. Recuperar las nociones de ideas principales/secundarias, y presentar **definición, ejemplo, comparación y causa-consecuencia** como recursos que también pueden emplearse oralmente.
+### Mini ejercicio: ¿qué información conservaríamos?
+
+**Texto breve para dictar, imprimir o copiar:**
+
+> Las abejas favorecen la reproducción de muchas plantas porque transportan polen de una flor a otra. Cuando buscan néctar, parte del polen queda adherido a su cuerpo y puede llegar a otras flores. Este proceso se llama polinización.
+
+**Consignas (individual 5 min + parejas 5 min):**
+
+1. Escribí el **tema** con pocas palabras.
+2. Expresá la **idea principal** en una oración.
+3. Señalá un **dato secundario** que explique cómo sucede el proceso.
+4. Elegí **tres palabras clave** que usarías para explicarlo oralmente, sin leer el párrafo entero.
+
+**Orientación para corregir:** tema: polinización realizada por las abejas; principal: las abejas ayudan a reproducirse a muchas plantas mediante el transporte de polen; secundario: al buscar néctar, el polen se adhiere al cuerpo; palabras clave posibles: *abejas, polen, flores, polinización*. Aceptar formulaciones equivalentes y pedir que expliquen sus elecciones.
+
+**Pregunta de transición:** «Si mañana tuvieran que explicar esto a personas que no lo conocen, ¿qué información sería imprescindible y qué ejemplo agregarían para que se entienda?»
 
 ## Desarrollo — 80 minutos después del recreo
 
-| Minutos | Actividad | Producto esperado |
+| Minutos | Actividad | Producto |
 |---:|---|---|
-| 0–10 | Ejemplo docente: convertir un tema cotidiano en explicación. | Distinguir presentación informativa de opinión personal. |
-| 10–25 | Elección definitiva del tema, individual o en parejas; registrar títulos. | Tema delimitado y propósito claro. |
-| 25–45 | Diseño de un **mapa de ideas**: introducción, tres ejes y cierre. | Esquema de contenido en papel. |
-| 45–65 | Guion visual: boceto de 4–6 diapositivas o láminas; ubicar dos recursos explicativos. | Storyboard sin necesidad de computadora. |
-| 65–75 | Presentación de la idea a otro estudiante o equipo (un minuto por turno) y devoluciones. | Un cambio o mejora identificada. |
-| 75–80 | Puesta en común y explicación de qué traer o investigar para la próxima clase. | Plan de continuación. |
+| 0–10 | **Presentación breve de recursos explicativos** y ejemplos. | Reconocer para qué sirve cada recurso. |
+| 10–20 | Demostración docente: un tema libre explicado con y sin organización. | Identificar qué hace clara una presentación. |
+| 20–30 | Presentación del proyecto «Noche de PowerPoints» + lluvia de ideas. | Tres posibles temas personales. |
+| 30–45 | Elección y delimitación del tema, individual o en parejas; consultar con Lucho. | Un tema concreto y un objetivo de aprendizaje para el público. |
+| 45–65 | Esquema de exposición, sin necesidad de computadoras. | Tema + tres ideas principales + datos secundarios + dos recursos + cierre. |
+| 65–75 | **Microexposición en parejas:** un minuto para explicar la idea, un minuto de devolución; cambiar roles. | Primera práctica oral sin pasar al frente. |
+| 75–80 | Ticket de salida y consignas para la próxima clase. | Registrar tema, dudas y fuentes por verificar. |
 
-### Un ejemplo para modelar (sin resolverles la tarea)
+### Recursos explicativos: presentar o reforzar (10 min)
 
-**Tema:** «¿Qué necesitás saber para entender un partido de vóley?»
+Explicar que son **estrategias para que el público comprenda mejor**. No es necesario que memoricen todas las definiciones en este momento; sí que las empleen al organizar su presentación.
 
-1. **Introducción:** qué es el deporte y por qué puede interesar.
-2. **Definición:** qué es una rotación o un saque.
-3. **Idea principal 1:** cómo se organiza un partido.
-4. **Idea principal 2:** funciones de los jugadores (puede usarse **enumeración**).
-5. **Idea principal 3:** una regla que suele confundir a quienes recién empiezan (usar **ejemplo**).
-6. **Cierre:** una idea que el público debería recordar.
+| Recurso | ¿Qué hace? | Ejemplo |
+|---|---|---|
+| **Definición** | Explica qué es un concepto. | «La polinización es el traslado de polen entre flores». |
+| **Ejemplificación** | Aclara con un caso concreto. | «Por ejemplo, una abeja puede transportar polen al buscar néctar». |
+| **Enumeración** | Presenta varios elementos de un conjunto. | «Entre los polinizadores hay abejas, mariposas y algunos murciélagos». |
+| **Comparación o contraste** | Muestra semejanzas o diferencias. | «A diferencia de muchas abejas, algunos murciélagos polinizan de noche». |
+| **Causa y consecuencia** | Explica motivos o resultados. | «Si desaparecen ciertas flores, los polinizadores encuentran menos alimento». |
 
-**Aclaración para los estudiantes:** «Me gusta el vóley porque es divertido» es una opinión válida para abrir o cerrar, pero **no alcanza** como desarrollo expositivo. Hay que enseñar algo verificable.
+**Chequeo oral rápido:** decir dos frases y pedir que identifiquen el recurso. Por ejemplo: «Un saque es la acción con la que comienza una jugada» (definición); «Por ejemplo, algunos saques se realizan desde el fondo de la cancha» (ejemplificación).
 
-### Ficha de planificación para que copien
+### Proyecto: «Mi tema en tres minutos»
+
+> Elegí un tema que te interese y prepará una explicación para personas que quizá no saben nada sobre él. Puede ser un deporte, videojuego, música, película, animal, invento o fenómeno curioso. Lo importante no es solo decir **por qué te gusta**, sino **enseñar algo** utilizando información organizada.
+
+**Requisitos que se explican desde el primer día:**
+
+- Título atractivo y propósito claro: ¿qué quiero que mis compañeros aprendan?
+- **Introducción, desarrollo y cierre.**
+- Tres ideas principales, acompañadas de detalles o ejemplos pertinentes.
+- Al menos dos **recursos explicativos** utilizados con sentido.
+- Apoyo visual: diapositivas, láminas o tarjetas; sin leer un guion completo.
+- Presentación estimada de 3–4 minutos por equipo; ajustar tras conocer la cantidad de estudiantes. Si hay parejas, **ambos hablan**.
+
+### Modelo: de un tema de interés a una explicación
+
+**Tema demasiado amplio:** *Los videojuegos.*  
+**Tema acotado:** *Cómo funcionan los mundos de Minecraft.*
+
+- **Introducción:** qué es el juego y qué parte voy a explicar.
+- **Idea 1:** qué es un mundo o bioma (**definición**).
+- **Idea 2:** qué tipos de biomas aparecen (**enumeración y ejemplos**).
+- **Idea 3:** cómo el ambiente puede cambiar lo que hace un jugador (**causa y consecuencia**).
+- **Cierre:** qué debe recordar alguien que nunca jugó.
+
+**Frase útil:** «Me encanta Minecraft» es un punto de partida personal, pero no constituye por sí sola una explicación expositiva.
+
+### Ficha de planificación (para copiar)
 
 **Proyecto: Mi tema en tres minutos**
 
 - Nombre(s):
-- Tema:
-- Título provisional:
-- ¿A quién se lo voy a explicar?: compañeros que posiblemente no conocen el tema.
-- ¿Qué quiero que aprendan?:
-- Introducción (pregunta, dato o ejemplo inicial):
-- Idea principal 1:
-- Idea principal 2:
-- Idea principal 3:
-- Recurso explicativo 1 (¿cuál y dónde?):
-- Recurso explicativo 2 (¿cuál y dónde?):
-- Cierre (qué deberían recordar):
-- ¿Qué necesito investigar? ¿De dónde obtendré información confiable?:
-- Formato de apoyo: diapositivas / lámina / tarjetas.
+- Tema general que me interesa:
+- Tema **acotado** que voy a explicar:
+- Título tentativo:
+- ¿Qué quiero que mis compañeros aprendan?:
+- **Tres ideas principales:** 1) ___ 2) ___ 3) ___
+- **Ideas secundarias o ejemplos** para desarrollar cada una:
+- **Palabras clave** (para hablar sin leer):
+- **Recurso explicativo 1** (cuál y dónde lo usaré):
+- **Recurso explicativo 2** (cuál y dónde lo usaré):
+- Introducción (pregunta, dato curioso o situación):
+- Cierre (qué idea me gustaría que recuerden):
+- ¿Qué información necesito verificar y qué fuentes usaré?:
+- Apoyo visual posible (PowerPoint / lámina / tarjetas):
+
+### Ticket de salida (5 min)
+
+1. Mi tema elegido es: ____
+2. Una idea principal que quiero explicar es: ____
+3. Un recurso explicativo que me serviría es: ____ porque ____
+4. Una duda o un dato que debo investigar: ____
 
 ### Criterios que se anuncian desde el comienzo
 
-1. **Contenido:** información pertinente y comprensible, no solo gustos personales.
-2. **Organización:** introducción, desarrollo y cierre; identificación de ideas centrales.
-3. **Recursos explicativos:** al menos dos, empleados con sentido.
-4. **Oralidad:** voz comprensible, orden de ideas y uso de apoyos **sin leer todo**.
-5. **Participación:** si es en equipo, todos explican alguna parte.
+1. **Contenido:** información pertinente y verificable, no solamente opiniones.
+2. **Organización:** distinguir el tema, ideas principales/secundarias y una secuencia comprensible.
+3. **Recursos explicativos:** utilizar por lo menos dos, adecuadamente.
+4. **Oralidad:** volumen comprensible, ideas ordenadas, pausas y apoyo visual sin leer todo.
+5. **Participación:** en equipos, todos explican alguna parte.
 
 > [!tip] Si el curso es pasivo
-> Usar primero escritura individual, luego parejas, después compartir voluntariamente algunas ideas al grupo completo. No iniciar con «¿Quién quiere pasar al frente?». La primera microexplicación se hace entre pares.
+> Primero respuestas individuales, luego intercambio en parejas y por último algunas intervenciones voluntarias. En la primera clase **no exigir una presentación completa frente al curso**.
 
 > [!tip] Si no hay equipos o Internet
-> El proyecto funciona con **storyboards en papel** y puede finalizar con láminas. Los datos que no recuerdan con certeza deben quedar marcados para verificarlos después. No exigir investigación online durante la clase ni depender de los teléfonos.
+> El primer día alcanza con el esquema en papel. No depender de teléfonos ni de PowerPoint; las fuentes inciertas se registran para verificar después. Si no hay proyector, el proyecto puede resolverse con láminas o tarjetas.
 
 > [!note] Accesibilidad
-> Para quien tiene dificultades de lectura/escritura, permitir organizarse con palabras clave, un esquema visual, dictado colaborativo o redacción digital si está disponible. Valorar la **comprensión y claridad oral** sin convertir la ortografía o la lectura pública obligatoria en el criterio principal. Ofrecer alternativas sin señalar a un alumno ante el curso.
+> Consignas cortas y visibles, esquema con palabras clave, apoyos visuales y más tiempo cuando haga falta. Priorizar que pueda explicar lo aprendido, sin exigir lectura en público ni memorizar. Ofrecer alternativas a todo el curso, sin identificar públicamente a ningún estudiante.
 
 ### Registro rápido después de la clase
 
+- ¿Qué recordaban sobre tema, idea principal y secundaria?::
+- ¿Qué recursos explicativos reconocían ya?::
 - Cantidad de estudiantes / equipos::
 - ¿Individual, parejas o mixto?::
 - ¿Hay proyector o computadoras disponibles?::
 - Temas elegidos::
-- ¿Qué contenidos expositivos dominan?::
 - ¿Qué necesitarán reforzar el lunes 19?::
+
+---
+
+# Continuidad prevista (NO corresponde desarrollar todo el martes 13)
+
+## 2.º año — incorporar escritura creativa después del desenlace
+
+**Miércoles 14 (80 min):** leer el capítulo 27, contrastar qué sabe el narrador y qué infiere, debatir el final abierto y recuperar los símbolos (rosa, estrellas, pozo, cordero).
+
+**Martes 20 (120 min): taller de escritura creativa.** A esta altura ya conocen el final; ahora pueden producir un texto literario propio que dialogue con la obra. Dos consignas posibles, para que elijan **una**:
+
+- **«La carta que nunca llegó».** Escribir una carta del aviador al Principito, o de la rosa al Principito. Recuperar **dos acontecimientos** de la novela, **un símbolo** y una emoción expresada mediante acciones, recuerdos o imágenes, no solo explicaciones.
+- **«Un planeta que faltaba».** Imaginar una escala adicional en el viaje del Principito. Crear un habitante o situación que permita cuestionar una conducta humana, como sucede con los planetas visitados en la novela.
+
+**Extensión orientativa:** 150–220 palabras (ajustable). **Proceso:** planificación → borrador → intercambio en parejas → revisión. Observar coherencia con el universo narrativo, voz del personaje/narrador, creatividad y revisión; no solo faltas ortográficas.
+
+**Miércoles 21 (80 min):** revisión final, lectura voluntaria de producciones y comentario sobre las decisiones de escritura. Entrega del texto a la docente titular. Si el tiempo sobra y hay medios, usar una escena breve de la película como comparación, **sin desplazar la lectura ni la escritura**.
+
+> [!question] ¿Vale la pena ver la película animada de 2015?
+> **Sí, pero como comparación entre obra y adaptación, no como sustituto de la novela.** La película de Mark Osborne dura alrededor de **108 minutos** y suma otra trama centrada en una niña y un aviador mayor; también reinterpreta elementos de la obra. Con cuatro encuentros en total, verla completa consumiría casi todo un bloque de 120 minutos y dejaría poca oportunidad de discutirla.  
+> **Opción preferida:** una **escena de 5–12 min**, seleccionada previamente, **después** de terminar el libro. Consigna: «¿Qué conserva de la novela? ¿Qué agrega o cambia la película? ¿Cómo influyen esos cambios en la interpretación?».  
+> **Si se proyecta:** verificar antes disponibilidad legal, equipos, sonido y tiempo. No inventar minutos exactos de escenas sin revisar una copia específica.  
+> Ficha educativa: https://escuelaalcine.gob.cl/fichas-educativas/el-pequeno-principe/  
+> Ficha cinematográfica: https://www.moma.org/calendar/events/2642
+
+## 3.º año — llevar el proyecto a la exposición
+
+- **Lunes 19 (80 min):** organizar información, revisar el texto/guion oral, desarrollar los apoyos visuales, ensayar con devolución entre pares; trabajar apertura, volumen, pausas y cierre.
+- **Martes 20 (40 + recreo + 80):** últimos ensayos, **Noche de PowerPoints**, preguntas del público y autoevaluación. Ajustar cantidad y extensión de presentaciones según el tamaño real del curso.
 
 ---
 
@@ -271,3 +350,8 @@ Cada uno escribe tres opciones. Después, para su favorita, completa:
 - [ ] Confirmar disponibilidad de tecnología para las exposiciones.
 - [ ] Ajustar actividades de la próxima clase según lo efectivamente realizado, no por obligación de cumplir todos los minutos del plan.
 
+## Referencias de trabajo
+
+- Antoine de Saint-Exupéry, *El principito*. Biblioteca del Congreso de la Nación, 2016. PDF proporcionado para la suplencia. Especialmente capítulos 25–27, pp. 72–85.
+- Carpetas de estudiantes: 2.º, actividades del capítulo 25 de *El principito*; 3.º, texto *Las abejas y su importancia* y ejercicios sobre información principal/secundaria.
+- Mark Osborne, *El principito* (película animada, 2015). Recurso complementario para analizar la adaptación, no contenido obligatorio.
