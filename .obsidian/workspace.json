@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Suplencia Lourdes/Presentaciones 3er año.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -95,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1932681983add039",
