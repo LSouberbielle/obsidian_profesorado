@@ -14,12 +14,6 @@ tags:
 
 # 2.º año — *El principito*: el final y una escena para animar
 
-> [!info] Datos de la clase
-> **Miércoles 14 de octubre de 2026 · 80 minutos**  
-> **Docente:** Lucho  
-> **Punto de partida:** el martes 13 se repasó el capítulo 25 y se leyeron en voz alta los capítulos 26 y 27. Antes de salir, se dejaron cuatro preguntas **para responder en casa**.  
-> **Próxima clase:** martes 20, proyección de *El principito* (película de 2015). La última clase se reservará para comparar novela y película.
-
 ## Propósitos
 
 - Recuperar y revisar las respuestas sobre el desenlace, **sin dar por hecho que todos hicieron la tarea**.
@@ -28,11 +22,6 @@ tags:
 - Producir un **texto creativo y argumentativo breve**: elegir una escena que quisieran ver animada, imaginar cómo se vería y explicar por qué importa.
 - Dejar un registro que pueda retomarse al comparar el libro con la película.
 
-## Materiales
-
-- PDF o ejemplar de *El principito*: en esta edición, **capítulo 26, pp. 75–82; capítulo 27, pp. 82–85**.
-- Pizarrón y carpetas.
-- Una hoja para la producción final (o la misma carpeta, **marcando claramente el título**, para encontrarla la semana siguiente).
 
 > [!important] Decisión al entrar
 > Preguntar sin reproches: **«¿Quiénes pudieron terminar las preguntas en casa? ¿Quiénes necesitan unos minutos más?»**  
@@ -113,24 +102,9 @@ Escribir en el pizarrón:
 
 **Pregunta para discutir:** «¿Qué ganamos como lectores cuando una historia no nos da todas las respuestas?»
 
-## 5. Actividad central: «Una escena que quisiera ver animada» (25 minutos)
-
-> [!example] Consigna para copiar en el pizarrón
-> **Si pudieras elegir una escena de *El principito* para verla convertida en una película animada, ¿cuál elegirías?**  
-> Redactá un texto de **8 a 12 líneas** en el que:
-> 
-> 1. **Identifiques la escena:** contá brevemente qué pasa, dónde ocurre y qué personajes participan.
-> 2. **Imagines la animación:** explicá cómo se vería en pantalla. Podés hablar de colores, movimientos, sonidos, música, silencios, gestos o escenarios.
-> 3. **Justifiques tu elección:** explicá por qué esa escena es importante para la historia y qué emoción o idea te gustaría transmitirle al público.
-> 
-> **Importante:** escribí en forma de texto, no como una lista de respuestas. La escena puede ser de **cualquier parte de la novela**, no solo del final. **No hace falta dibujar.**
-
-**Organización sugerida del tiempo:**
-
-- **3 min:** elegir escena y anotar tres palabras clave.
-- **15 min:** redactar el texto.
-- **5 min:** releer y mejorar: ¿se entiende cuál es la escena?, ¿explico *cómo* la animaría?, ¿digo *por qué* la elegí?
-- **2 min:** poner título y dejarlo identificado para retomarlo la próxima semana.
+1) Escribe un diálogo que tendrían con el principito. ¿Qué te gustaría preguntarle? Escribe tu pregunta y lo que El Principito te respondería.
+2) ¿Cómo te imaginas al principito de grande? ¿Sigue viviendo en el mismo lugar? ¿A qué se dedica?
+3) Si tuvieras que elegir una enseñanza que te dejó este libro, ¿cuál sería y por qué?
 
 **Escenas posibles, solo si necesitan ayuda para elegir:** el encuentro con el zorro, el cuidado de la rosa, el pozo del desierto, la conversación sobre las estrellas o la despedida con el aviador.
 
