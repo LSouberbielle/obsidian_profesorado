@@ -36,16 +36,16 @@ tags:
 
 ## Cronograma flexible: dos recorridos de 80 minutos
 
-| Momento | **A. La mayoría hizo la tarea** | **B. Muchos no hicieron la tarea** |
-|---|---|---|
-| Inicio y recuperación | **5 min:** recordar el final y explicar qué haremos | **5 min:** recordar el final y explicar qué haremos |
+| Momento                   | **A. La mayoría hizo la tarea**                                      | **B. Muchos no hicieron la tarea**                                                           |
+| ------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| Inicio y recuperación     | **5 min:** recordar el final y explicar qué haremos                  | **5 min:** recordar el final y explicar qué haremos                                          |
 | Trabajo con las preguntas | **10 min:** revisar respuestas en parejas, completar justificaciones | **25 min:** resolver las cuatro preguntas con el texto; quien ya terminó hace una ampliación |
-| Puesta en común | **18 min:** dialogar sobre las respuestas, priorizando 1, 3 y 4 | **10 min:** puesta en común breve, priorizando 1 y 3 |
-| Aporte docente | **10 min:** hechos, interpretaciones y final abierto | **8 min:** hechos, interpretaciones y final abierto |
-| Escritura central | **25 min:** «Una escena que quisiera ver animada» | **25 min:** «Una escena que quisiera ver animada» |
-| Compartir producciones | **10 min:** lectura voluntaria y comentario | **5 min:** dos lecturas voluntarias |
-| Cierre | **2 min:** guardar el texto para retomarlo con la película | **2 min:** guardar el texto para retomarlo con la película |
-| **Total** | **80 min** | **80 min** |
+| Puesta en común           | **18 min:** dialogar sobre las respuestas, priorizando 1, 3 y 4      | **10 min:** puesta en común breve, priorizando 1 y 3                                         |
+| Aporte docente            | **10 min:** hechos, interpretaciones y final abierto                 | **8 min:** hechos, interpretaciones y final abierto                                          |
+| Escritura central         | **25 min:** «Una escena que quisiera ver animada»                    | **25 min:** «Una escena que quisiera ver animada»                                            |
+| Compartir producciones    | **10 min:** lectura voluntaria y comentario                          | **5 min:** dos lecturas voluntarias                                                          |
+| Cierre                    | **2 min:** guardar el texto para retomarlo con la película           | **2 min:** guardar el texto para retomarlo con la película                                   |
+| **Total**                 | **80 min**                                                           | **80 min**                                                                                   |
 
 ### 1. Inicio: recuperar el hilo (5 minutos)
 
