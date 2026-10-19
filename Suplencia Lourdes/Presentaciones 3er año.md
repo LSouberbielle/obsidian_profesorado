@@ -1,19 +1,19 @@
 
-| Grupos                                            | Temas                                |
-| ------------------------------------------------- | ------------------------------------ |
-| Aquiles Zapata y Sofía Rebaudino                  | Creepypastas                         |
-| Martina Duarte y Lola Monera                      | After the rain (música/j-pop)        |
-| Lautaro Guevara y Felipe Heredia                  | Existencia de vida en otros planetas |
-| Felipe Arnedo y Roman Romero                      | El mundo de las motos                |
-| Lautaro Ceballos y Bautista Díaz                  | Geometry Dash                        |
-| Lucas Terragno, Valentino Santucho, Tobías Moreno | Pokemones                            |
-| Thiago Taibo, Santino Grosso, Bono López          | Pentatlón moderno                    |
-| Tobías Romero y Juan Luna                         | Hay vida en el universo?             |
-| Josefina Sauervein y Sol Díaz                     | Volley                               |
-| Lourdes Lemos y Fran Villalba                     | Música y psicología                  |
-| Alma Gonzáles y Aarón Álvarez                     | Extraterrestres de Capilla           |
-| Sofía Giardinieri y Catalina Bianchi              | Parálisis del sueño                  |
-| Guadalupe Sardo y  Gemma Nieto                    | Festivales de música                 |
-| Ciro Albini y Manuel Álvarez Bertotti             | Estafas más grandes de internet      |
-| Stefano Campos y Pedro Rojas                      | Los robos más grandes de la historia |
+| Grupos                                            | Temas                                | Entrega clase 13/10                                                                                                                                                     |
+| ------------------------------------------------- | ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Aquiles Zapata y Sofía Rebaudino                  | Creepypastas                         | Muy buen desarrollo. Falta gancho introductorio, revisar extensión y evitar que quede tan enciclopédico. Añadir por qué estas historias nos importan/elemento personal. |
+| Martina Duarte y Lola Monera                      | After the rain (música/j-pop)        | No entregaron.                                                                                                                                                          |
+| Lautaro Guevara y Felipe Heredia                  | Existencia de vida en otros planetas | Desarrollo muy bueno. Falta una pregunta con gancho para introducir el tema y dar un cierre.                                                                            |
+| Felipe Arnedo y Roman Romero                      | El mundo de las motos                | No entregaron.                                                                                                                                                          |
+| Lautaro Ceballos y Bautista Díaz                  | Geometry Dash                        | Buen desarrollo, pero muy enciclopédico. Falta introducción con gancho y ver cómo presentarlo.                                                                          |
+| Lucas Terragno, Valentino Santucho, Tobías Moreno | Pokemón Porygon                      | Desarrollo muy enciclopédico, sin introducción ni cierre. Se reentrega para reformular.                                                                                 |
+| Thiago Taibo, Santino Grosso, Bono López          | Pentatlón moderno                    | Buen planteo con desarrollo a ampliar. Falta introducción y ver apoyo visual.                                                                                           |
+| Tobías Romero y Juan Luna                         | Hay vida en el universo?             | Muy bien planteadas las ideas principales y secundarias. Falta desarrollarlo como texto.<br>Presentan introducción, desarrollo y cierre.                                |
+| Josefina Sauervein y Sol Díaz                     | Volley                               | No entregaron.                                                                                                                                                          |
+| Lourdes Lemos y Fran Villalba                     | Música y psicología                  | Planteo interesante del tema, con pregunta introductoria. Falta un poco más de desarrollo y cierre. Ver ortografía.                                                     |
+| Alma Gonzáles y Aarón Álvarez                     | Extraterrestres de Capilla           | Plantean pregunta introductoria y desarrollan un texto. Falta profundizar en el tema y dar cierre.                                                                      |
+| Sofía Giardinieri y Catalina Bianchi              | Parálisis del sueño                  | No entregaron.                                                                                                                                                          |
+| Guadalupe Sardo y  Gemma Nieto                    | Festivales de música                 | No entregaron.                                                                                                                                                          |
+| Ciro Albini y Manuel Álvarez Bertotti             | Estafas más grandes de internet      | Excelente el desarrollo, con gancho y cierre que vuelve a lo personal.                                                                                                  |
+| Stefano Campos y Pedro Rojas                      | Los robos más grandes de la historia | No entregaron.                                                                                                                                                          |
 Desarrollo de la clase: Explicación de los recursos, dictado de consigna y explicación de la ficha. Se pide entrega por escrito de lo trabajado el día de hoy, para terminar de armar la presentación el lunes y ver todas las presentaciones el miércoles.
