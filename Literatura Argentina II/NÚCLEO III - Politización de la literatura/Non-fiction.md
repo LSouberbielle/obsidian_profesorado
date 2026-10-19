@@ -6,7 +6,8 @@ textos:
 autores:
   - Amar Sánchez
 ---
-
+Para parcial elegir una novela y relacionar con la otra
+Y otra pregunta de Aira.
 # 📚 ¿Es un género?
 Problema --> hablar de género resulta problemático.
 Es un "alambrado", un cierre de definición que no abarca la complejidad del fenómeno.

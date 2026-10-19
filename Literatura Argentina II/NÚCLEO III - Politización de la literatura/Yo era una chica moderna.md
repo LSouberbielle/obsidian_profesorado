@@ -15,7 +15,7 @@ El lector se vuelve monstruoso.
 ## 📋 Argumento
 Leer capítulos 6, 7, 11, además de todo.
 ## 🎭 Personajes clave
-*Quiénes son, qué representan*
+Comisario Chipoleti. Figura importante, es quien agarra a Roberto y lo convierte en policía.
 
 ## 🔍 Ejes de análisis
 Según Ana Flores, texto teórico "Reír con el monstruo".
