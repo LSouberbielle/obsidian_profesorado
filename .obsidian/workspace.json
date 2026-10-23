@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "447971a6537450a0",
+        "id": "4133b7d837e55062",
         "type": "tabs",
         "children": [
           {
-            "id": "017cb6e4a595e3cc",
+            "id": "d53e7addfdfefff8",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Suplencia Lourdes/Clase_2do_14-10-2026_Obsidian.md",
-                "bFile": "Suplencia Lourdes/Clase_2do_14-10-2026_Obsidian.md",
-                "aRef": ""
+                "file": "Suplencia Lourdes/Presentaciones 3er año.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Clase_2do_14-10-2026_Obsidian  (Working Tree)"
-            }
-          },
-          {
-            "id": "1f509fb6ad3402eb",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Presentaciones 3er año"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,11 +195,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "1f509fb6ad3402eb",
+  "active": "d53e7addfdfefff8",
   "lastOpenFiles": [
     "Suplencia Lourdes/Correcciones segundo año.md",
-    "conflict-files-obsidian-git.md",
     "Suplencia Lourdes/Presentaciones 3er año.md",
+    "Suplencia Lourdes/Suplencia_Lengua_13-10-2026_2do_y_3ro.md",
+    "conflict-files-obsidian-git.md",
     "Suplencia Lourdes/Clase_2do_14-10-2026_Obsidian.md",
     "Práctica Docente II/Proyecto.md",
     "Práctica Docente II/Taller.md",
@@ -229,7 +215,6 @@
     "Literatura Argentina II/NÚCLEO III - Politización de la literatura/Sin título.md",
     "Suplencia Lourdes/Clase 13-10.md",
     "Suplencia Lourdes/Info en general.md",
-    "Suplencia Lourdes/Suplencia_Lengua_13-10-2026_2do_y_3ro.md",
     "Suplencia Lourdes/3ro año.md",
     "Suplencia Lourdes/2do año.md",
     "El-Principitocompleto.pdf.md",
