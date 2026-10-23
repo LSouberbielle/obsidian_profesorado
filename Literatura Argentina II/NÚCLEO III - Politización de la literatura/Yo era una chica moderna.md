@@ -6,19 +6,19 @@ periodo:
 materia:
 fecha: 2026-10-16
 ---
-# 📖 undefined — undefined
-
 ## 🌍 Contexto
-*Período histórico, movimiento literario, contexto del autor*
+-Relación con el contexto de los 90 - Privatizaciones, empresas privatizadas donde las chicas trabajan, pero la relación es opaca. La forma de vida de la época sí está bien representada, con el trabajo y la joda de noche, pero es un trabajo que les ocupa todo el día.
+-Problema de la modernidad - título - qué significa ser moderno. Modernización del estado. Venganza del pasado.
+-Lo monstruoso -- Literatura con cosas terribles de las que nos reímos.
+El lector se vuelve monstruoso.
 
 ## 📋 Argumento
-*Resumen breve de la obra*
-
+Leer capítulos 6, 7, 11, además de todo.
 ## 🎭 Personajes clave
-*Quiénes son, qué representan*
+Comisario Chipoleti. Figura importante, es quien agarra a Roberto y lo convierte en policía.
 
 ## 🔍 Ejes de análisis
-Según Ana Flores, texto teórico
+Según Ana Flores, texto teórico "Reír con el monstruo".
 
 Intentar expulsar al lector, bromea con el lector hasta irritarlo.
 Lenguaje claro, casi transparente

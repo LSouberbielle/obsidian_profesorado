@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "447971a6537450a0",
+        "id": "0150f07debfb6a51",
         "type": "tabs",
         "children": [
           {
-            "id": "fe632ddd4a8d35da",
+            "id": "e68ea9832a8fb0be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Suplencia Lourdes/Presentaciones 3er año.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Presentaciones 3er año"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -80,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1932681983add039",
@@ -196,14 +191,16 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "fe632ddd4a8d35da",
+  "active": "51b77bac63ec28f9",
   "lastOpenFiles": [
+    "Sin título.md",
     "Suplencia Lourdes/Correcciones segundo año.md",
-    "Suplencia Lourdes/Clase_2do_14-10-2026_Obsidian.md",
+    "conflict-files-obsidian-git.md",
+    "Suplencia Lourdes/Suplencia_Lengua_13-10-2026_2do_y_3ro.md",
     "Suplencia Lourdes/Presentaciones 3er año.md",
+    "Suplencia Lourdes/Clase_2do_14-10-2026_Obsidian.md",
     "Suplencia Lourdes/Info en general.md",
     "Literatura Argentina II/NÚCLEO III - Politización de la literatura/Yo era una chica moderna.md",
-    "Suplencia Lourdes/Suplencia_Lengua_13-10-2026_2do_y_3ro.md",
     "Suplencia Lourdes/Clase 13-10.md",
     "Literatura Argentina II/NÚCLEO III - Politización de la literatura/Politización de la literatura.md",
     "Literatura Argentina II/NÚCLEO III - Politización de la literatura/Operación Masacre.md",
@@ -217,7 +214,6 @@
     "Literatura Argentina II/Literatura2C20120220LIMPIO20IA.md",
     "Literatura Argentina II/NÚCLEO III - Politización de la literatura/La flor de hierro.md",
     "Literatura Argentina II/NÚCLEO III - Politización de la literatura/Non-fiction.md",
-    "conflict-files-obsidian-git.md",
     "Sujetos de la educación/Taller sobre bullying.md",
     "Práctica Docente II/Guion Conjetural de microclase.md",
     "Literatura Argentina II/NÚCLEO III - Politización de la literatura",
@@ -227,7 +223,6 @@
     "Literatura Argentina II/Sin confirmar 284488.crdownload",
     "Problemáticas y Desafíos de la Educación/La herramienta mágica que no fue diseñada para el aula.md",
     "Problemáticas y Desafíos de la Educación/El factor común.md",
-    "Problemáticas y Desafíos de la Educación/Distintas modalidades de educación.md",
     "Literatura Argentina II/NÚCLEO II - EL CUENTO COMO FORMA - POÉTICAS, TRADICIONES Y EXPANSIÓN DEL FANTÁSTICO",
     "Literatura Argentina II/NÚCLEO I - VANGUARDIA, DEBATE CULTURAL Y MERCADO LITERARIO EN LA ARGENTINA DE ENTREGUERRAS",
     "Adjuntos/Pasted image 20260712152614.png",
