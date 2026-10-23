@@ -20,8 +20,23 @@
               "icon": "diff",
               "title": "Diff: Clase_2do_14-10-2026_Obsidian  (Working Tree)"
             }
+          },
+          {
+            "id": "1f509fb6ad3402eb",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,8 +210,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "017cb6e4a595e3cc",
+  "active": "1f509fb6ad3402eb",
   "lastOpenFiles": [
+    "Suplencia Lourdes/Correcciones segundo año.md",
+    "conflict-files-obsidian-git.md",
     "Suplencia Lourdes/Presentaciones 3er año.md",
     "Suplencia Lourdes/Clase_2do_14-10-2026_Obsidian.md",
     "Práctica Docente II/Proyecto.md",
@@ -222,8 +239,6 @@
     "Literatura Argentina II/NÚCLEO III - Politización de la literatura/La flor de hierro.md",
     "Lectura y escritura crítica y creativa/Cosmología hinduista.md",
     "Lectura y escritura crítica y creativa/Borges sobre Kafka y crítica literaria.md",
-    "Literatura Argentina II/NÚCLEO III - Politización de la literatura/Operación Masacre.md",
-    "Literatura Argentina II/apuntes_argentina_ii_ordenados.md",
     "Literatura Argentina II/NÚCLEO III - Politización de la literatura",
     "Literatura Argentina II/Sin confirmar 714627.crdownload",
     "Literatura Argentina II/Sin confirmar 284488.crdownload",
