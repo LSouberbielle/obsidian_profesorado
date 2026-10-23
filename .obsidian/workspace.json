@@ -11,10 +11,15 @@
             "id": "e68ea9832a8fb0be",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Práctica Docente II/Proyecto.md",
+                "bFile": "Práctica Docente II/Proyecto.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Proyecto  (Index)"
             }
           }
         ]
@@ -191,11 +196,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "51b77bac63ec28f9",
+  "active": "e68ea9832a8fb0be",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Práctica Docente II/Proyecto.md",
     "Sin título.md",
     "Suplencia Lourdes/Correcciones segundo año.md",
-    "conflict-files-obsidian-git.md",
     "Suplencia Lourdes/Suplencia_Lengua_13-10-2026_2do_y_3ro.md",
     "Suplencia Lourdes/Presentaciones 3er año.md",
     "Suplencia Lourdes/Clase_2do_14-10-2026_Obsidian.md",
@@ -222,7 +228,6 @@
     "Problemáticas y Desafíos de la Educación/La educación que aún es posible - Sacristán.md",
     "Literatura Argentina II/Sin confirmar 284488.crdownload",
     "Problemáticas y Desafíos de la Educación/La herramienta mágica que no fue diseñada para el aula.md",
-    "Problemáticas y Desafíos de la Educación/El factor común.md",
     "Literatura Argentina II/NÚCLEO II - EL CUENTO COMO FORMA - POÉTICAS, TRADICIONES Y EXPANSIÓN DEL FANTÁSTICO",
     "Literatura Argentina II/NÚCLEO I - VANGUARDIA, DEBATE CULTURAL Y MERCADO LITERARIO EN LA ARGENTINA DE ENTREGUERRAS",
     "Adjuntos/Pasted image 20260712152614.png",
