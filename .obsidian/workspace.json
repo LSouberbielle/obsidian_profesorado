@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problemáticas y Desafíos de la Educación/Vulneración de derechos y consumo en la escuela.md",
+                "file": "Suplencia Lourdes/Presentaciones 3er año.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vulneración de derechos y consumo en la escuela"
+              "title": "Presentaciones 3er año"
             }
           }
         ]
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1932681983add039",
@@ -179,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,10 +196,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d53e7addfdfefff8",
+  "active": "51b77bac63ec28f9",
   "lastOpenFiles": [
-    "Literatura Argentina II/NÚCLEO III - Politización de la literatura/Resumen Parcial II.md",
     "Problemáticas y Desafíos de la Educación/Vulneración de derechos y consumo en la escuela.md",
+    "Literatura Argentina II/NÚCLEO III - Politización de la literatura/Resumen Parcial II.md",
     "Suplencia Lourdes/Presentaciones 3er año.md",
     "Suplencia Lourdes/Correcciones segundo año.md",
     "Suplencia Lourdes/Suplencia_Lengua_13-10-2026_2do_y_3ro.md",
