@@ -1,4 +1,5 @@
 {
   "cssTheme": "Typewriter",
-  "accentColor": "#6db478"
+  "accentColor": "#6db478",
+  "showRibbon": true
 }
